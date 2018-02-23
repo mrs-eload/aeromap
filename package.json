@@ -1,0 +1,48 @@
+{
+  "name": "aeromap",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.11.4",
+    "babel-eslint": "^8.0.0",
+    "babel-loader": "^7.0.0",
+    "babel-minify-webpack-plugin": "^0.2.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-minify": "^0.2.0",
+    "babel-register": "^6.26.0",
+    "webpack": "^3.8.1",
+    "webpack-bundle-analyzer": "^2.9.1",
+    "webpack-merge": "^4.1.1",
+    "parallel-webpack": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrs-eload/aeromap.git"
+  },
+  "keywords": [
+    "javascript",
+    "map",
+    "googlemap",
+    "api",
+    "aviation",
+    "airspaces"
+  ],
+  "author": "mrs-eload",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mrs-eload/aeromap/issues"
+  },
+  "homepage": "https://github.com/mrs-eload/aeromap#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0"
+  }
+}
