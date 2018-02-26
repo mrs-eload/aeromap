@@ -14,9 +14,10 @@ class AirspaceCollection {
         this.airspaces.set(airspace.callsign, airspace);
     }
     createAirspace(options){
-        if(this.hasAirspace(options.callsign));
+        // if(this.hasAirspace(options.callsign));
         this.add(new Airspace(...options));
     }
+
     hasAirspace(airspace){
         if(typeof airspace === 'string'){
             return this.findAirspace(airspace) !== null;

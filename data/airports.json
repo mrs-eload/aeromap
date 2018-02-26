@@ -1,0 +1,6482 @@
+[
+  {
+    "name": "Centre Hospitalier De Moenchsberg Heliport",
+    "icao": "FR-0001",
+    "latitude": 47.7252769470215,
+    "longitude": 7.34499979019165,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Hautepierre Heliport",
+    "icao": "FR-0002",
+    "latitude": 48.593334197998,
+    "longitude": 7.70499992370605,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0003",
+    "latitude": 48.797779083252,
+    "longitude": 7.77694416046143,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0004",
+    "latitude": 48.872501373291,
+    "longitude": 7.48638916015625,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Sainte Catherine Heliport",
+    "icao": "FR-0005",
+    "latitude": 48.7455558776855,
+    "longitude": 7.35111093521118,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Graffenstaden Centre Hospitalier Heliport",
+    "icao": "FR-0006",
+    "latitude": 48.5372467041016,
+    "longitude": 7.72171878814697,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Pasteur Heliport",
+    "icao": "FR-0007",
+    "latitude": 48.0750007629395,
+    "longitude": 7.3380560874939,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "N.H.C Heliport",
+    "icao": "FR-0008",
+    "latitude": 48.5758323669434,
+    "longitude": 7.74055576324463,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Azur Heliport",
+    "icao": "FR-0009",
+    "latitude": 43.8069458007812,
+    "longitude": -1.25555598735809,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castets Heliport",
+    "icao": "FR-0010",
+    "latitude": 43.9166679382324,
+    "longitude": -1.15694403648376,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier De La Côte Basque Heliport",
+    "icao": "FR-0011",
+    "latitude": 43.4830551147461,
+    "longitude": -1.47777795791626,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0012",
+    "latitude": 44.6313896179199,
+    "longitude": -1.16277801990509,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0013",
+    "latitude": 43.7125015258789,
+    "longitude": -1.04027795791626,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0014",
+    "latitude": 43.8933334350586,
+    "longitude": -0.486110985279083,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0015",
+    "latitude": 45.1917533874512,
+    "longitude": 0.73156201839447,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0016",
+    "latitude": 43.3270606994629,
+    "longitude": -0.329896986484528,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0017",
+    "latitude": 43.1963386535645,
+    "longitude": -0.61600798368454,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Saint Nicolas De Blay Heliport",
+    "icao": "FR-0018",
+    "latitude": 45.1357803344727,
+    "longitude": -0.65958297252655,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clinique Du Medoc Heliport",
+    "icao": "FR-0019",
+    "latitude": 45.3027877807617,
+    "longitude": -0.937885999679565,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Escary Heliport",
+    "icao": "FR-0020",
+    "latitude": 43.121208190918,
+    "longitude": -0.742491006851196,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Herm Heliport",
+    "icao": "FR-0021",
+    "latitude": 43.8222236633301,
+    "longitude": -1.11111104488373,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Canéda Centre Hospitalier Heliport",
+    "icao": "FR-0022",
+    "latitude": 44.9002494812012,
+    "longitude": 1.2231240272522,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Huga Heliport",
+    "icao": "FR-0023",
+    "latitude": 45.0069427490234,
+    "longitude": -1.16472196578979,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pellegrin Centre Hospitalier Heliport",
+    "icao": "FR-0024",
+    "latitude": 44.8274993896484,
+    "longitude": -0.604444026947021,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pontonx Heliport",
+    "icao": "FR-0025",
+    "latitude": 43.7777786254883,
+    "longitude": -0.919444024562836,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Relais De Margaux Heliport",
+    "icao": "FR-0026",
+    "latitude": 45.0529556274414,
+    "longitude": -0.662249982357025,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Robert Piqué Hôpital Militaire Heliport",
+    "icao": "FR-0027",
+    "latitude": 44.7999992370605,
+    "longitude": -0.574167013168335,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tinon Heliport",
+    "icao": "FR-0028",
+    "latitude": 43.7333335876465,
+    "longitude": -1.17777800559998,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0029",
+    "latitude": 46.5666656494141,
+    "longitude": 3.33333301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0030",
+    "latitude": 45.7569427490234,
+    "longitude": 3.09194397926331,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre De Secours Principal Heliport",
+    "icao": "FR-0031",
+    "latitude": 48.1919441223145,
+    "longitude": 3.30638909339905,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre d'Etude du C.E.A. Heliport",
+    "icao": "FR-0032",
+    "latitude": 47.5833320617676,
+    "longitude": 4.90000009536743,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0033",
+    "latitude": 47.25,
+    "longitude": 4.06666707992554,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0034",
+    "latitude": 47.804443359375,
+    "longitude": 3.55777788162231,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0035",
+    "latitude": 46.3144454956055,
+    "longitude": 4.81222200393677,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0036",
+    "latitude": 46.981388092041,
+    "longitude": 3.12222194671631,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0037",
+    "latitude": 47.8622207641602,
+    "longitude": 4.55805587768555,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0038",
+    "latitude": 46.4650001525879,
+    "longitude": 4.10972213745117,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0039",
+    "latitude": 47.4955558776855,
+    "longitude": 4.34444379806519,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Hotel Dieu Heliport",
+    "icao": "FR-0040",
+    "latitude": 46.8050003051758,
+    "longitude": 4.44888877868652,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier J. Bouveri Heliport",
+    "icao": "FR-0041",
+    "latitude": 46.6500015258789,
+    "longitude": 4.33388900756836,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Régional Heliport",
+    "icao": "FR-0042",
+    "latitude": 47.3172225952148,
+    "longitude": 5.02694416046143,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier W. Morey Heliport",
+    "icao": "FR-0043",
+    "latitude": 46.7783317565918,
+    "longitude": 4.85916709899902,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Circuit Automobile de Nevers Magny-Cours Heliport",
+    "icao": "FR-0044",
+    "latitude": 46.856388092041,
+    "longitude": 3.15416693687439,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Port Heliport",
+    "icao": "FR-0045",
+    "latitude": 47.9811096191406,
+    "longitude": 3.38666701316833,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Amirauté Heliport",
+    "icao": "FR-0046",
+    "latitude": 48.3805541992188,
+    "longitude": -4.49166679382324,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bretagne Sud Centre Hospitalier Heliport",
+    "icao": "FR-0047",
+    "latitude": 47.7497215270996,
+    "longitude": -3.37805604934692,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0048",
+    "latitude": 48.6388893127441,
+    "longitude": -2.00833296775818,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0049",
+    "latitude": 48.7227783203125,
+    "longitude": -3.46527791023254,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0050",
+    "latitude": 48.4908332824707,
+    "longitude": -2.75111103057861,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chubert Centre Hospitalier Heliport",
+    "icao": "FR-0051",
+    "latitude": 47.6661109924316,
+    "longitude": -2.74722194671631,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cornouailles Heliport",
+    "icao": "FR-0052",
+    "latitude": 47.9852752685547,
+    "longitude": -4.09610986709595,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Cavale Blanche Centre Hospitalier Heliport",
+    "icao": "FR-0053",
+    "latitude": 48.4035301208496,
+    "longitude": -4.52956676483154,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mairie Heliport",
+    "icao": "FR-0054",
+    "latitude": 48.2027778625488,
+    "longitude": -3.82055592536926,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pont Chaillou Heliport",
+    "icao": "FR-0055",
+    "latitude": 48.1230545043945,
+    "longitude": -1.69611096382141,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier de l'agglomeration Montargeoise Heliport",
+    "icao": "FR-0056",
+    "latitude": 47.9966659545898,
+    "longitude": 2.77444410324097,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0057",
+    "latitude": 47.3605575561523,
+    "longitude": 1.73194396495819,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0058",
+    "latitude": 47.6047210693359,
+    "longitude": 1.34249997138977,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0059",
+    "latitude": 47.0841674804688,
+    "longitude": 2.43527793884277,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0060",
+    "latitude": 48.7275009155273,
+    "longitude": 1.38472199440002,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0061",
+    "latitude": 48.4199981689453,
+    "longitude": 1.5047219991684,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0062",
+    "latitude": 46.7994422912598,
+    "longitude": 1.69749999046326,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Source Heliport",
+    "icao": "FR-0063",
+    "latitude": 47.8349990844727,
+    "longitude": 1.91888904571533,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Trousseau Chu Heliport",
+    "icao": "FR-0064",
+    "latitude": 47.3488883972168,
+    "longitude": 0.709167003631592,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0065",
+    "latitude": 48.9738883972168,
+    "longitude": 4.36944389343262,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0066",
+    "latitude": 48.716667175293,
+    "longitude": 4.60194396972656,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0067",
+    "latitude": 48.6316680908203,
+    "longitude": 4.94944381713867,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0068",
+    "latitude": 49.7625007629395,
+    "longitude": 4.69750022888184,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Régional Heliport",
+    "icao": "FR-0069",
+    "latitude": 49.2258338928223,
+    "longitude": 4.01861095428467,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Vinicole Heliport",
+    "icao": "FR-0070",
+    "latitude": 49.0233345031738,
+    "longitude": 3.98499989509583,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Florotel Heliport",
+    "icao": "FR-0071",
+    "latitude": 48.7249984741211,
+    "longitude": 3.83333301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtellerie La Briquetterie Heliport",
+    "icao": "FR-0072",
+    "latitude": 49.0250015258789,
+    "longitude": 3.90694403648376,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Laboratoires Boehringer Heliport",
+    "icao": "FR-0073",
+    "latitude": 49.2752456665039,
+    "longitude": 4.01128101348877,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Travaux Aeriens Bouquemont Heliport",
+    "icao": "FR-0074",
+    "latitude": 48.8516654968262,
+    "longitude": 3.96722197532654,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier de Lons le Saunier Heliport",
+    "icao": "FR-0075",
+    "latitude": 46.6772232055664,
+    "longitude": 5.54828882217407,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0076",
+    "latitude": 47.0833320617676,
+    "longitude": 5.47222185134888,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0077",
+    "latitude": 46.9005546569824,
+    "longitude": 6.35972213745117,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Jean Minjoz Heliport",
+    "icao": "FR-0078",
+    "latitude": 47.2258338928223,
+    "longitude": 5.96416711807251,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier F. Quesnay Heliport",
+    "icao": "FR-0079",
+    "latitude": 48.9991683959961,
+    "longitude": 1.67499995231628,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0080",
+    "latitude": 48.9177131652832,
+    "longitude": 2.02325201034546,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0081",
+    "latitude": 48.5955543518066,
+    "longitude": 2.4811110496521,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Henri Mondor Heliport",
+    "icao": "FR-0082",
+    "latitude": 48.7988891601562,
+    "longitude": 2.45361089706421,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Intercommunal Robert Boulanger Heliport",
+    "icao": "FR-0083",
+    "latitude": 48.9555549621582,
+    "longitude": 2.52083301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier La Pitié Salpétrière Heliport",
+    "icao": "FR-0084",
+    "latitude": 48.8372230529785,
+    "longitude": 2.36138892173767,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Lariboisière Heliport",
+    "icao": "FR-0085",
+    "latitude": 48.8827781677246,
+    "longitude": 2.35444402694702,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier René Dubos Heliport",
+    "icao": "FR-0086",
+    "latitude": 49.0668716430664,
+    "longitude": 2.0969820022583,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Flins Heliport",
+    "icao": "FR-0087",
+    "latitude": 48.9819450378418,
+    "longitude": 1.86388897895813,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital D'Instruction Des Armées De Percy Heliport",
+    "icao": "FR-0088",
+    "latitude": 48.8142013549805,
+    "longitude": 2.25389003753662,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Raymond Poincaré Heliport",
+    "icao": "FR-0089",
+    "latitude": 48.8394432067871,
+    "longitude": 2.17027807235718,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Les Sangliers Heliport",
+    "icao": "FR-0090",
+    "latitude": 48.7835388183594,
+    "longitude": 2.07165002822876,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Ouen L'Aumone Heliport",
+    "icao": "FR-0091",
+    "latitude": 49.0577774047852,
+    "longitude": 2.14472198486328,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toussus Le Noble Heliport",
+    "icao": "FR-0092",
+    "latitude": 48.7496109008789,
+    "longitude": 2.10407090187073,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Medical du Cap Peyrefite  Heliport",
+    "icao": "FR-0093",
+    "latitude": 42.4588890075684,
+    "longitude": 3.16000008583069,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Gayraud Centre Hospitalier Heliport",
+    "icao": "FR-0094",
+    "latitude": 43.1911125183105,
+    "longitude": 2.34111094474792,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Montimaran Heliport",
+    "icao": "FR-0095",
+    "latitude": 43.3413887023926,
+    "longitude": 3.25500011444092,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Corum Heliport",
+    "icao": "FR-0096",
+    "latitude": 43.6136093139648,
+    "longitude": 3.88222193717957,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montpellier Chr Heliport",
+    "icao": "FR-0097",
+    "latitude": 43.6300010681152,
+    "longitude": 3.84972190856934,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Narbonne",
+    "icao": "FR-0098",
+    "latitude": 43.1941680908203,
+    "longitude": 3.05166697502136,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Cressent Heliport",
+    "icao": "FR-0099",
+    "latitude": 43.1736106872559,
+    "longitude": 2.99083304405212,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier La Perche Heliport",
+    "icao": "FR-0100",
+    "latitude": 45.5163879394531,
+    "longitude": 1.20305597782135,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brive-La Gaillarde Centre Hospitalier Heliport",
+    "icao": "FR-0101",
+    "latitude": 45.1702766418457,
+    "longitude": 1.53416705131531,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0102",
+    "latitude": 45.2666664123535,
+    "longitude": 1.76666700839996,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0103",
+    "latitude": 45.8138885498047,
+    "longitude": 1.23777794837952,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0104",
+    "latitude": 45.9550018310547,
+    "longitude": 1.75138902664185,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0105",
+    "latitude": 45.5427780151367,
+    "longitude": 2.31222200393677,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Médical Heliport",
+    "icao": "FR-0106",
+    "latitude": 46.1333312988281,
+    "longitude": 1.88333296775818,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Château Castel Novel Heliport",
+    "icao": "FR-0107",
+    "latitude": 45.1833343505859,
+    "longitude": 1.45000004768372,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chateau De Saint Maixant Heliport",
+    "icao": "FR-0108",
+    "latitude": 45.9936103820801,
+    "longitude": 2.20888900756836,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brabois Centre Hospitalier Heliport",
+    "icao": "FR-0109",
+    "latitude": 48.6447219848633,
+    "longitude": 6.15138912200928,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0110",
+    "latitude": 48.6707077026367,
+    "longitude": 5.92931079864502,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0111",
+    "latitude": 49.1122207641602,
+    "longitude": 6.72166681289673,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Etablissement Public Heliport",
+    "icao": "FR-0112",
+    "latitude": 49.5313873291016,
+    "longitude": 5.78611087799072,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Central Heliport",
+    "icao": "FR-0113",
+    "latitude": 48.6852798461914,
+    "longitude": 6.19250011444092,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Technopole 2000 Heliport",
+    "icao": "FR-0114",
+    "latitude": 49.0911102294922,
+    "longitude": 6.23138904571533,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Arbouix Heliport",
+    "icao": "FR-0115",
+    "latitude": 43.0027770996094,
+    "longitude": -0.0833330005407333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0116",
+    "latitude": 43.6313896179199,
+    "longitude": 0.573333024978638,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0117",
+    "latitude": 43.603889465332,
+    "longitude": 2.23916697502136,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0118",
+    "latitude": 42.9527778625488,
+    "longitude": 1.61111104488373,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0119",
+    "latitude": 44.3588905334473,
+    "longitude": 2.55194401741028,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Intercommunal du Val d'Ariege Heliport",
+    "icao": "FR-0120",
+    "latitude": 43.025276184082,
+    "longitude": 1.61749994754791,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Régional Heliport",
+    "icao": "FR-0121",
+    "latitude": 43.6130561828613,
+    "longitude": 1.39999997615814,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Renneville Heliport",
+    "icao": "FR-0122",
+    "latitude": 43.3738899230957,
+    "longitude": 1.72555601596832,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulouse Rangueil Pech David Heliport",
+    "icao": "FR-0123",
+    "latitude": 43.5613899230957,
+    "longitude": 1.44861102104187,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Boulogne Sur Mer Centre Hospitalier Heliport",
+    "icao": "FR-0124",
+    "latitude": 50.7230567932129,
+    "longitude": 1.62888896465302,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0125",
+    "latitude": 50.4183311462402,
+    "longitude": 1.56416702270508,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0126",
+    "latitude": 51.0374984741211,
+    "longitude": 2.39666700363159,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0127",
+    "latitude": 50.4144439697266,
+    "longitude": 1.66305601596832,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0128",
+    "latitude": 50.7036094665527,
+    "longitude": 2.25472211837769,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Régional Heliport",
+    "icao": "FR-0129",
+    "latitude": 50.6041679382324,
+    "longitude": 3.03444409370422,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Coquelles Eurotunnel Heliport",
+    "icao": "FR-0130",
+    "latitude": 50.9180564880371,
+    "longitude": 1.79499995708466,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Polyclinique Du Ternois Heliport",
+    "icao": "FR-0131",
+    "latitude": 50.3883323669434,
+    "longitude": 2.33694410324097,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Polyclinique Heliport",
+    "icao": "FR-0132",
+    "latitude": 50.3754081726074,
+    "longitude": 2.90970897674561,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Usine Renault Heliport",
+    "icao": "FR-0133",
+    "latitude": 50.3622207641602,
+    "longitude": 3.0377779006958,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Arsenal-Premar Heliport",
+    "icao": "FR-0134",
+    "latitude": 49.6538887023926,
+    "longitude": -1.63999998569489,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avranches Heliport",
+    "icao": "FR-0135",
+    "latitude": 48.6925010681152,
+    "longitude": -1.34222197532654,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalie Heliport",
+    "icao": "FR-0136",
+    "latitude": 49.2062835693359,
+    "longitude": -0.355011999607086,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0137",
+    "latitude": 49.6388893127441,
+    "longitude": -1.61111104488373,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0138",
+    "latitude": 49.0412368774414,
+    "longitude": -1.44343900680542,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0139",
+    "latitude": 48.4252777099609,
+    "longitude": 0.0838890001177788,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0140",
+    "latitude": 48.7466659545898,
+    "longitude": -0.0177779998630285,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0141",
+    "latitude": 48.7670516967773,
+    "longitude": 0.610323011875153,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier J. Monod Heliport",
+    "icao": "FR-0142",
+    "latitude": 48.8499984741211,
+    "longitude": -1.58333301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Crossma Heliport",
+    "icao": "FR-0143",
+    "latitude": 49.6851234436035,
+    "longitude": -1.90995395183563,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Donville-Les-Bains Heliport",
+    "icao": "FR-0144",
+    "latitude": 48.8663330078125,
+    "longitude": -1.57572197914124,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Flamanville Heliport",
+    "icao": "FR-0145",
+    "latitude": 49.5333557128906,
+    "longitude": -1.88170599937439,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital de Saint-Lo Heliport",
+    "icao": "FR-0146",
+    "latitude": 49.1052780151367,
+    "longitude": -1.1061110496521,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Ferme Saint Siméon Heliport",
+    "icao": "FR-0147",
+    "latitude": 49.4246864318848,
+    "longitude": 0.22359499335289,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Casino Heliport",
+    "icao": "FR-0148",
+    "latitude": 49.5999984741211,
+    "longitude": 1.53333294391632,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Center Parc Heliport",
+    "icao": "FR-0149",
+    "latitude": 48.7249984741211,
+    "longitude": 0.836111009120941,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centrale Nucléaire Heliport",
+    "icao": "FR-0150",
+    "latitude": 49.8535919189453,
+    "longitude": 0.631259977817535,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centrale Nucléaire Heliport",
+    "icao": "FR-0151",
+    "latitude": 49.9722213745117,
+    "longitude": 1.21388900279999,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier de Verneuil Heliport",
+    "icao": "FR-0152",
+    "latitude": 48.7444458007812,
+    "longitude": 0.891667008399963,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0153",
+    "latitude": 49.440601348877,
+    "longitude": 1.11110997200012,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0154",
+    "latitude": 49.7430572509766,
+    "longitude": 0.385556012392044,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Grand Couronne Heliport",
+    "icao": "FR-0155",
+    "latitude": 49.3502311706543,
+    "longitude": 0.980581998825073,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hopital Jacques Monod Heliport",
+    "icao": "FR-0156",
+    "latitude": 49.5247230529785,
+    "longitude": 0.184722006320953,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Usine Renault Heliport",
+    "icao": "FR-0157",
+    "latitude": 49.4766654968262,
+    "longitude": 0.302500009536743,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Beauvoir-Sur-Mer",
+    "icao": "FR-0158",
+    "latitude": 46.89014816,
+    "longitude": -2.088155984,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Cholet Heliport",
+    "icao": "FR-0159",
+    "latitude": 47.0422210693359,
+    "longitude": -0.895833015441895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0160",
+    "latitude": 47.2758331298828,
+    "longitude": -2.2366669178009,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0161",
+    "latitude": 47.4902763366699,
+    "longitude": -0.554166972637177,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0162",
+    "latitude": 47.2455558776855,
+    "longitude": -0.0594439990818501,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0163",
+    "latitude": 48.0666656494141,
+    "longitude": -0.783333003520966,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Challans Heliport",
+    "icao": "FR-0164",
+    "latitude": 46.8537292480469,
+    "longitude": -1.83056902885437,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ile D'Yeu Port Joinville Heliport",
+    "icao": "FR-0165",
+    "latitude": 46.7282257,
+    "longitude": -2.35029888,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quai Moncousu Heliport",
+    "icao": "FR-0166",
+    "latitude": 47.2089767456055,
+    "longitude": -1.55340695381165,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Camas Heliport",
+    "icao": "FR-0167",
+    "latitude": 49.7324981689453,
+    "longitude": 3.21476411819458,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0168",
+    "latitude": 50.1016654968262,
+    "longitude": 1.8313889503479,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0169",
+    "latitude": 49.389720916748,
+    "longitude": 2.79555606842041,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0170",
+    "latitude": 49.3699989318848,
+    "longitude": 3.33527803421021,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0171",
+    "latitude": 49.6261100769043,
+    "longitude": 3.23749995231628,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0172",
+    "latitude": 50.1538887023926,
+    "longitude": 2.35333299636841,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Laënnec Heliport",
+    "icao": "FR-0173",
+    "latitude": 49.2472229003906,
+    "longitude": 2.45805597305298,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Sud Heliport",
+    "icao": "FR-0174",
+    "latitude": 49.8727798461914,
+    "longitude": 2.25361108779907,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier De Poitiers Heliport",
+    "icao": "FR-0175",
+    "latitude": 46.5605545043945,
+    "longitude": 0.382777988910675,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier de Saintongues Heliport",
+    "icao": "FR-0176",
+    "latitude": 45.7477798461914,
+    "longitude": -0.654999971389771,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0177",
+    "latitude": 45.6333312988281,
+    "longitude": -1.06083297729492,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0178",
+    "latitude": 46.1590003967285,
+    "longitude": -1.14259195327759,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0179",
+    "latitude": 46.3161125183105,
+    "longitude": -0.458332985639572,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0180",
+    "latitude": 45.6341667175293,
+    "longitude": 0.11777800321579,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0181",
+    "latitude": 46.8341674804688,
+    "longitude": 0.555555999279022,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Berre/Marignane",
+    "icao": "FR-0182",
+    "latitude": 43.4500007629395,
+    "longitude": 5.21666717529297,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "CCMAR Mediterranee",
+    "icao": "FR-0183",
+    "latitude": 43.0826988220215,
+    "longitude": 5.9338059425354,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre De Secours Heliport",
+    "icao": "FR-0184",
+    "latitude": 43.4225006103516,
+    "longitude": 5.04805612564087,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre De Secours Heliport",
+    "icao": "FR-0185",
+    "latitude": 44.0466651916504,
+    "longitude": 5.02583312988281,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0186",
+    "latitude": 43.9202766418457,
+    "longitude": 4.79888916015625,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0187",
+    "latitude": 43.5347213745117,
+    "longitude": 5.44222211837769,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0188",
+    "latitude": 44.9063873291016,
+    "longitude": 6.63277816772461,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Bonnet Heliport",
+    "icao": "FR-0189",
+    "latitude": 43.4397201538086,
+    "longitude": 6.75166702270508,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Clavary Heliport",
+    "icao": "FR-0190",
+    "latitude": 43.6197204589844,
+    "longitude": 6.92888879776001,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Heliport",
+    "icao": "FR-0191",
+    "latitude": 43.1186103820801,
+    "longitude": 6.1119441986084,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Heliport",
+    "icao": "FR-0192",
+    "latitude": 44.5574989318848,
+    "longitude": 6.07333278656006,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Jean Marcel Heliport",
+    "icao": "FR-0193",
+    "latitude": 43.4030570983887,
+    "longitude": 6.0663890838623,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital L'Archet 2 Heliport",
+    "icao": "FR-0194",
+    "latitude": 43.6974983215332,
+    "longitude": 7.22611093521118,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital La Timone Heliport",
+    "icao": "FR-0195",
+    "latitude": 43.2894439697266,
+    "longitude": 5.40388917922974,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Lenval Heliport",
+    "icao": "FR-0196",
+    "latitude": 43.6894454956055,
+    "longitude": 7.24166679382324,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Milhaud Heliport",
+    "icao": "FR-0197",
+    "latitude": 43.1133346557617,
+    "longitude": 5.89805603027344,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nord Heliport",
+    "icao": "FR-0198",
+    "latitude": 43.3805541992188,
+    "longitude": 5.36499977111816,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Port Vauban Heliport",
+    "icao": "FR-0199",
+    "latitude": 43.5880546569824,
+    "longitude": 7.13222217559814,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quai Du Large Heliport",
+    "icao": "FR-0200",
+    "latitude": 43.5465431213379,
+    "longitude": 6.95567512512207,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sarl R.C.E Heliport",
+    "icao": "FR-0201",
+    "latitude": 43.2677764892578,
+    "longitude": 6.5519437789917,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Societe Europeenne de Propulsion Heliport",
+    "icao": "FR-0202",
+    "latitude": 43.543888092041,
+    "longitude": 4.95194387435913,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sophia Antépolis Heliport",
+    "icao": "FR-0203",
+    "latitude": 43.6227798461914,
+    "longitude": 7.02833318710327,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulon Sainte Anne Heliport",
+    "icao": "FR-0204",
+    "latitude": 43.1333312988281,
+    "longitude": 5.92999982833862,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Zi Les Paluds Heliport",
+    "icao": "FR-0205",
+    "latitude": 43.2866668701172,
+    "longitude": 5.60388898849487,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre de Secours de Courchevel Heliport",
+    "icao": "FR-0206",
+    "latitude": 45.4150009155273,
+    "longitude": 6.63305616378784,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0207",
+    "latitude": 44.9144439697266,
+    "longitude": 4.90416717529297,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0208",
+    "latitude": 45.0419425964355,
+    "longitude": 5.02194404602051,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0209",
+    "latitude": 44.6141662597656,
+    "longitude": 4.39750003814697,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0210",
+    "latitude": 46.0055541992188,
+    "longitude": 4.69305610656738,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0211",
+    "latitude": 45.5641670227051,
+    "longitude": 5.91333293914795,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0212",
+    "latitude": 45.6694450378418,
+    "longitude": 6.36861085891724,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0213",
+    "latitude": 45.4761123657227,
+    "longitude": 4.51555585861206,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0214",
+    "latitude": 45.2416687011719,
+    "longitude": 4.66583299636841,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0215",
+    "latitude": 45.8955574035645,
+    "longitude": 6.131667137146,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0216",
+    "latitude": 45.4836120605469,
+    "longitude": 6.53555583953857,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0217",
+    "latitude": 45.9347229003906,
+    "longitude": 6.64166688919067,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0218",
+    "latitude": 45.9144439697266,
+    "longitude": 6.86305618286133,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Château De Pézay Heliport",
+    "icao": "FR-0219",
+    "latitude": 46.1369438171387,
+    "longitude": 4.70166683197021,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clinique Pneumologique des rieux Heliport",
+    "icao": "FR-0220",
+    "latitude": 44.3580551147461,
+    "longitude": 5.1497220993042,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Croix De Lognan Heliport",
+    "icao": "FR-0221",
+    "latitude": 45.9700012207031,
+    "longitude": 6.94444417953491,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Crs Alpes Heliport",
+    "icao": "FR-0222",
+    "latitude": 45.6569442749023,
+    "longitude": 6.37611103057861,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Flaine-Ete Heliport",
+    "icao": "FR-0223",
+    "latitude": 46.0033340454102,
+    "longitude": 6.69666719436646,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Flaine-Hiver Heliport",
+    "icao": "FR-0224",
+    "latitude": 46.0038871765137,
+    "longitude": 6.69027805328369,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Grand Colombier Heliport",
+    "icao": "FR-0225",
+    "latitude": 45.8813896179199,
+    "longitude": 5.75750017166138,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Bellevue Heliport",
+    "icao": "FR-0226",
+    "latitude": 45.4113883972168,
+    "longitude": 4.39166688919067,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Edouard-Herriot Heliport",
+    "icao": "FR-0227",
+    "latitude": 45.7442207336426,
+    "longitude": 4.8845329284668,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôpital Nord Heliport",
+    "icao": "FR-0228",
+    "latitude": 45.2008323669434,
+    "longitude": 5.74555587768555,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Ariana Heliport",
+    "icao": "FR-0229",
+    "latitude": 45.6738891601562,
+    "longitude": 5.9088888168335,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Du Château Heliport",
+    "icao": "FR-0230",
+    "latitude": 46.3580551147461,
+    "longitude": 6.13250017166138,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Georges Blanc Heliport",
+    "icao": "FR-0231",
+    "latitude": 46.220832824707,
+    "longitude": 4.98888921737671,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Le Château Heliport",
+    "icao": "FR-0232",
+    "latitude": 45.5900001525879,
+    "longitude": 5.5369439125061,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel Royal Heliport",
+    "icao": "FR-0233",
+    "latitude": 46.3966674804688,
+    "longitude": 6.59555578231812,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Daille Heliport",
+    "icao": "FR-0234",
+    "latitude": 45.4572219848633,
+    "longitude": 6.96777820587158,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Les Deux Alpes Heliport",
+    "icao": "FR-0235",
+    "latitude": 45.0250015258789,
+    "longitude": 6.1211109161377,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Magland Heliport",
+    "icao": "FR-0236",
+    "latitude": 45.9833335876465,
+    "longitude": 6.71666717529297,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Malacussy Heliport",
+    "icao": "FR-0237",
+    "latitude": 45.4241676330566,
+    "longitude": 4.37138891220093,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quartier-Reynies Heliport",
+    "icao": "FR-0238",
+    "latitude": 45.0999984741211,
+    "longitude": 5.68333292007446,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Refuge Du Requin Heliport",
+    "icao": "FR-0239",
+    "latitude": 45.8847236633301,
+    "longitude": 6.93055582046509,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Relais Du Soleil Heliport",
+    "icao": "FR-0240",
+    "latitude": 44.9097213745117,
+    "longitude": 5.02250003814697,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Remontées Mécaniques Heliport",
+    "icao": "FR-0241",
+    "latitude": 46.148609161377,
+    "longitude": 6.58194398880005,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint Remy de Marienne",
+    "icao": "FR-0242",
+    "latitude": 45.375,
+    "longitude": 6.27777814865112,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sécurité Heliport",
+    "icao": "FR-0243",
+    "latitude": 45.9388885498047,
+    "longitude": 6.89583301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Societe des Eaux Minerales D'Evian Heliport",
+    "icao": "FR-0244",
+    "latitude": 46.3908348083496,
+    "longitude": 6.51194381713867,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tête De Solaise Heliport",
+    "icao": "FR-0245",
+    "latitude": 45.4327774047852,
+    "longitude": 6.99166679382324,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aleu",
+    "icao": "FR-0246",
+    "latitude": 42.9000015258789,
+    "longitude": 1.27499997615814,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Artigues",
+    "icao": "FR-0247",
+    "latitude": 43.0769424438477,
+    "longitude": 0.00194400001782924,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bacaneres",
+    "icao": "FR-0248",
+    "latitude": 42.8383331298828,
+    "longitude": 0.664444029331207,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Balesta Nature",
+    "icao": "FR-0249",
+    "latitude": 43.1555557250977,
+    "longitude": 0.995278000831604,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cabaliros",
+    "icao": "FR-0250",
+    "latitude": 42.9524993896484,
+    "longitude": 0.13527800142765,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cap De Barres",
+    "icao": "FR-0251",
+    "latitude": 42.8630561828613,
+    "longitude": 0.515277981758118,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cap De Pouy",
+    "icao": "FR-0252",
+    "latitude": 42.7847213745117,
+    "longitude": 0.545000016689301,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castillon De La Laquette",
+    "icao": "FR-0253",
+    "latitude": 42.8955574035645,
+    "longitude": 0.100556001067162,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cipieres Alpes Dazur",
+    "icao": "FR-0254",
+    "latitude": 43.7777786254883,
+    "longitude": 6.90694379806519,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clamensane",
+    "icao": "FR-0255",
+    "latitude": 44.313889,
+    "longitude": 6.074444,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Claveisolles",
+    "icao": "FR-0256",
+    "latitude": 46.0780563354492,
+    "longitude": 4.54722213745117,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clos De Legua",
+    "icao": "FR-0257",
+    "latitude": 42.654167175293,
+    "longitude": 2.03888893127441,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col De Belledonne",
+    "icao": "FR-0258",
+    "latitude": 45.1666679382324,
+    "longitude": 5.98750019073486,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col De Cenise",
+    "icao": "FR-0259",
+    "latitude": 46.0208320617676,
+    "longitude": 6.44999980926514,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col De La Fenetre",
+    "icao": "FR-0260",
+    "latitude": 45.351390838623,
+    "longitude": 6.48888921737671,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col De La Marrano",
+    "icao": "FR-0261",
+    "latitude": 42.6624984741211,
+    "longitude": 2.16666698455811,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col De Sarenne",
+    "icao": "FR-0262",
+    "latitude": 45.0875015258789,
+    "longitude": 6.14583301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col Du Beal",
+    "icao": "FR-0263",
+    "latitude": 45.6791687011719,
+    "longitude": 3.78888893127441,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col Saint Jean",
+    "icao": "FR-0264",
+    "latitude": 44.413890838623,
+    "longitude": 6.37305593490601,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Coste Del Palm",
+    "icao": "FR-0265",
+    "latitude": 42.6083335876465,
+    "longitude": 2.01111102104187,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Coumely",
+    "icao": "FR-0266",
+    "latitude": 42.7625007629395,
+    "longitude": 0.0222219992429018,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Crete De Brouffiers",
+    "icao": "FR-0267",
+    "latitude": 45.3411102294922,
+    "longitude": 5.88611078262329,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dome De La Lauze",
+    "icao": "FR-0268",
+    "latitude": 44.9986114501953,
+    "longitude": 6.24583292007446,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ferrere",
+    "icao": "FR-0269",
+    "latitude": 42.8883323669434,
+    "longitude": 0.498888999223709,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier Dargentiere",
+    "icao": "FR-0270",
+    "latitude": 45.9416656494141,
+    "longitude": 7,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier De La Barbaratre",
+    "icao": "FR-0271",
+    "latitude": 45.1605567932129,
+    "longitude": 6.13888883590698,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier De La Chiaupe",
+    "icao": "FR-0272",
+    "latitude": 45.4916687011719,
+    "longitude": 6.77500009536743,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier De La Grande Motte",
+    "icao": "FR-0273",
+    "latitude": 45.4249992370605,
+    "longitude": 6.89444398880005,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier De L'etendard",
+    "icao": "FR-0274",
+    "latitude": 45.1624984741211,
+    "longitude": 6.16666698455811,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier De Talefre",
+    "icao": "FR-0275",
+    "latitude": 45.908332824707,
+    "longitude": 6.98333311080933,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier Du Dome Du Gouter",
+    "icao": "FR-0276",
+    "latitude": 45.845832824707,
+    "longitude": 6.84999990463257,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier Du Tacul",
+    "icao": "FR-0277",
+    "latitude": 45.8916664123535,
+    "longitude": 6.9375,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier Du Tour",
+    "icao": "FR-0278",
+    "latitude": 45.9833335876465,
+    "longitude": 7,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Glacier Lombard",
+    "icao": "FR-0279",
+    "latitude": 45.1083335876465,
+    "longitude": 6.3222222328186,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Grand Terrus",
+    "icao": "FR-0280",
+    "latitude": 44.422779083252,
+    "longitude": 5.64416694641113,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hautacam",
+    "icao": "FR-0281",
+    "latitude": 42.9938888549805,
+    "longitude": -0.0291670002043247,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hippopotame",
+    "icao": "FR-0282",
+    "latitude": 42.4777793884277,
+    "longitude": 2.04722189903259,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Honteyde",
+    "icao": "FR-0283",
+    "latitude": 42.8372230529785,
+    "longitude": 0.502222001552582,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Isola 2000",
+    "icao": "FR-0284",
+    "latitude": 44.1716651916504,
+    "longitude": 7.16305589675903,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Clusaz",
+    "icao": "FR-0285",
+    "latitude": 45.8736114501953,
+    "longitude": 6.42500019073486,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Jasserie",
+    "icao": "FR-0286",
+    "latitude": 45.397777557373,
+    "longitude": 4.58333301544189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Plagne Bouirex",
+    "icao": "FR-0287",
+    "latitude": 42.8666687011719,
+    "longitude": 1.13833296298981,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Salette Les Opinions",
+    "icao": "FR-0288",
+    "latitude": 44.8366661071777,
+    "longitude": 5.96250009536743,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Serre D'aulon",
+    "icao": "FR-0289",
+    "latitude": 42.836109161377,
+    "longitude": 0.272222012281418,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Taillade",
+    "icao": "FR-0290",
+    "latitude": 44.8916664123535,
+    "longitude": 2.95694398880005,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Tete Des Champs Le Menil",
+    "icao": "FR-0291",
+    "latitude": 47.9166679382324,
+    "longitude": 6.83055591583252,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Toussuire",
+    "icao": "FR-0292",
+    "latitude": 45.2722206115723,
+    "longitude": 6.26666688919067,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Toviere",
+    "icao": "FR-0293",
+    "latitude": 45.4655570983887,
+    "longitude": 6.93472194671631,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "L'Escoulin",
+    "icao": "FR-0294",
+    "latitude": 44.8250007629395,
+    "longitude": 5.23333311080933,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mens",
+    "icao": "FR-0295",
+    "latitude": 44.8055572509766,
+    "longitude": 5.75361108779907,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont Llaret",
+    "icao": "FR-0296",
+    "latitude": 42.5750007629395,
+    "longitude": 2.03888893127441,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont Llaret Roc Daude",
+    "icao": "FR-0297",
+    "latitude": 42.5805549621582,
+    "longitude": 2.02500009536743,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Morzine Avoriaz",
+    "icao": "FR-0298",
+    "latitude": 46.1902770996094,
+    "longitude": 6.76249980926514,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pene De Soulit",
+    "icao": "FR-0299",
+    "latitude": 42.7927780151367,
+    "longitude": 0.462500005960464,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Plateau De La Calme",
+    "icao": "FR-0300",
+    "latitude": 42.5305557250977,
+    "longitude": 2.00416707992554,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pointe De Louillon",
+    "icao": "FR-0301",
+    "latitude": 45.2416687011719,
+    "longitude": 6.21666717529297,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Praz Sauge Et Pre Vernay",
+    "icao": "FR-0302",
+    "latitude": 45.1888885498047,
+    "longitude": 6.25305604934692,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quatre Veziaux",
+    "icao": "FR-0303",
+    "latitude": 42.8922233581543,
+    "longitude": 0.299721986055374,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Roch Mayeres",
+    "icao": "FR-0304",
+    "latitude": 45.9500007629395,
+    "longitude": 6.58611106872559,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Thorame--Haute Chamatte",
+    "icao": "FR-0305",
+    "latitude": 44.139720916748,
+    "longitude": 6.54833316802979,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Thorame--Haute Les Serres",
+    "icao": "FR-0306",
+    "latitude": 44.1230545043945,
+    "longitude": 6.55999994277954,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Thorame--Haute Les Serres",
+    "icao": "FR-0307",
+    "latitude": 44.1150016784668,
+    "longitude": 6.53861093521118,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Uls",
+    "icao": "FR-0308",
+    "latitude": 42.8519439697266,
+    "longitude": 0.848888993263245,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Val Thorens Alti",
+    "icao": "FR-0309",
+    "latitude": 45.2819442749023,
+    "longitude": 6.57361078262329,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Valloire Bonnenuit",
+    "icao": "FR-0310",
+    "latitude": 45.1211128234863,
+    "longitude": 6.41944408416748,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Valmorel",
+    "icao": "FR-0311",
+    "latitude": 45.4416656494141,
+    "longitude": 6.41805601119995,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vaugellaz",
+    "icao": "FR-0312",
+    "latitude": 45.6072235107422,
+    "longitude": 6.70972204208374,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vers Le Col Du Palet",
+    "icao": "FR-0313",
+    "latitude": 45.4505577087402,
+    "longitude": 6.88333320617676,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Universitaire Nord Heliport",
+    "icao": "FR-0315",
+    "latitude": 49.906744,
+    "longitude": 2.295928,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0316",
+    "latitude": 49.449339,
+    "longitude": 2.068497,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Sud Francilien Heliport",
+    "icao": "FR-0317",
+    "latitude": 48.620279,
+    "longitude": 2.457238,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Centre Hospitalier Bicêtre Heliport",
+    "icao": "FR-0318",
+    "latitude": 48.809506,
+    "longitude": 2.35622,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Hôtel La Coquillade Heliport",
+    "icao": "FR-0319",
+    "latitude": 43.880125,
+    "longitude": 5.319045,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Luçon - Chasnais Aerodrome",
+    "icao": "FR-0320",
+    "latitude": 46.461913,
+    "longitude": -1.241447,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brive Souillac",
+    "icao": "FR-0321",
+    "latitude": 45.039722,
+    "longitude": 1.485556,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Col de Lèques",
+    "icao": "FR-0322",
+    "latitude": 43.86661,
+    "longitude": 6.463966,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont sur Meurthe",
+    "icao": "FR-0323",
+    "latitude": 48.5438226,
+    "longitude": 6.4419119,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Verchocq Airpark",
+    "icao": "FR-0324",
+    "latitude": 50.538547309,
+    "longitude": 2.0348462592,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aire sur la Lys Airfield",
+    "icao": "FR-0325",
+    "latitude": 50.6232,
+    "longitude": 2.4161,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Base ULM de Saint Maurice",
+    "icao": "FR-0326",
+    "latitude": 45.96559,
+    "longitude": 0.7394783,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Crottet-Le Bief ULM",
+    "icao": "FR-0327",
+    "latitude": 46.2851266,
+    "longitude": 4.88604,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "ULM La Flamengrie",
+    "icao": "FR-0328",
+    "latitude": 50.0002501,
+    "longitude": 3.94482,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ulmodrome de Limoux",
+    "icao": "FR-0329",
+    "latitude": 43.05666,
+    "longitude": 2.22633,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Base ULM de Kerfot",
+    "icao": "FR-0330",
+    "latitude": 48.72388242,
+    "longitude": -3.027055,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Base ULM de Javerlhac",
+    "icao": "FR-0331",
+    "latitude": 45.5538174591,
+    "longitude": 0.5585002899,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Club ULM Haut Doubs",
+    "icao": "FR-0332",
+    "latitude": 47.177724661,
+    "longitude": 6.813583374,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Envol ULM Alsace",
+    "icao": "FR-0333",
+    "latitude": 48.1512778272,
+    "longitude": 7.537672519683,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Verneuil en Bourbonnais",
+    "icao": "FR-0334",
+    "latitude": 46.359444,
+    "longitude": 3.2680555,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Doucier ULM",
+    "icao": "FR-0335",
+    "latitude": 46.66369277,
+    "longitude": 5.7614922523,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Plessé ULM",
+    "icao": "FR-0336",
+    "latitude": 47.525910456293,
+    "longitude": -1.84129262167,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cabrerets ULM",
+    "icao": "FR-0337",
+    "latitude": 44.514150030853,
+    "longitude": 1.5925025939941,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Biguès Carlucet ULM",
+    "icao": "FR-0338",
+    "latitude": 44.744167,
+    "longitude": 1.618333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint Sigismond ULM",
+    "icao": "FR-0339",
+    "latitude": 47.43944444,
+    "longitude": -0.93583333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ramonchamp ULM",
+    "icao": "FR-0340",
+    "latitude": 47.895556,
+    "longitude": 6.755278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Croisette Heliport",
+    "icao": "FR-JCA",
+    "latitude": 43.5359992980957,
+    "longitude": 7.03736019134521,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Moussoulens Air Base",
+    "icao": "LF34",
+    "latitude": 43.2797012329102,
+    "longitude": 2.20884990692139,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Soucelles",
+    "icao": "LF50",
+    "latitude": 47.5803985595703,
+    "longitude": -0.412268996238708,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Plan-de-Dieu",
+    "icao": "LF51",
+    "latitude": 44.1800003051758,
+    "longitude": 4.91888999938965,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chambley",
+    "icao": "LF52",
+    "latitude": 49.025501251221,
+    "longitude": 5.876070022583,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Aubin",
+    "icao": "LFAB",
+    "latitude": 49.8824996948242,
+    "longitude": 1.08527994155884,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Calais-Dunkerque",
+    "icao": "LFAC",
+    "latitude": 50.962100982666,
+    "longitude": 1.95475995540619,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Compiègne Margny",
+    "icao": "LFAD",
+    "latitude": 49.434398651123,
+    "longitude": 2.80610990524292,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Eu Mers Le Treport",
+    "icao": "LFAE",
+    "latitude": 50.0691986083984,
+    "longitude": 1.4266699552536,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Laon - Chambry",
+    "icao": "LFAF",
+    "latitude": 49.5957984924316,
+    "longitude": 3.63166999816895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Péronne-Saint-Quentin",
+    "icao": "LFAG",
+    "latitude": 49.8684997558594,
+    "longitude": 3.02958011627197,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Soissons-Cuffies",
+    "icao": "LFAH",
+    "latitude": 49.4000015259,
+    "longitude": 3.31699991226,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nangis-Les Loges",
+    "icao": "LFAI",
+    "latitude": 48.5961990356445,
+    "longitude": 3.00678992271423,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Argentan",
+    "icao": "LFAJ",
+    "latitude": 48.7106018066406,
+    "longitude": 0.00388900004327297,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dunkerque les Moeres",
+    "icao": "LFAK",
+    "latitude": 51.040599822998,
+    "longitude": 2.55028009414673,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Flèche Thorée Les Pins",
+    "icao": "LFAL",
+    "latitude": 47.6927778,
+    "longitude": 0.0019444444000044,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Berck sur Mer",
+    "icao": "LFAM",
+    "latitude": 50.4231,
+    "longitude": 1.59194,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Conde/Noireau",
+    "icao": "LFAN",
+    "latitude": 48.891701,
+    "longitude": -0.501944,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bagnoles-de-l'Orne-Couterne",
+    "icao": "LFAO",
+    "latitude": 48.5457992553711,
+    "longitude": -0.387443989515305,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rethel",
+    "icao": "LFAP",
+    "latitude": 49.4818992614746,
+    "longitude": 4.3647198677063,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Albert-Bray",
+    "icao": "LFAQ",
+    "latitude": 49.9715003967,
+    "longitude": 2.69765996933,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montdidier",
+    "icao": "LFAR",
+    "latitude": 49.6730995178223,
+    "longitude": 2.56916999816895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Falaise",
+    "icao": "LFAS",
+    "latitude": 48.9272003173828,
+    "longitude": -0.144721999764442,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Touquet-Côte d'Opale",
+    "icao": "LFAT",
+    "latitude": 50.5173988342285,
+    "longitude": 1.62058997154236,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vauville",
+    "icao": "LFAU",
+    "latitude": 49.6241989135742,
+    "longitude": -1.8291699886322,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Valenciennes-Denain",
+    "icao": "LFAV",
+    "latitude": 50.3258018493652,
+    "longitude": 3.46126008033752,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Villerupt",
+    "icao": "LFAW",
+    "latitude": 49.4113998413086,
+    "longitude": 5.89056015014648,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mortagne Au Perche",
+    "icao": "LFAX",
+    "latitude": 48.540298,
+    "longitude": 0.533889,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Amiens-Glisy",
+    "icao": "LFAY",
+    "latitude": 49.8730010986328,
+    "longitude": 2.38706994056702,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Agen-La Garenne",
+    "icao": "LFBA",
+    "latitude": 44.1747016906738,
+    "longitude": 0.590556025505066,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cazaux (BA 120) Air Base",
+    "icao": "LFBC",
+    "latitude": 44.5332984924316,
+    "longitude": -1.125,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bordeaux-Mérignac",
+    "icao": "LFBD",
+    "latitude": 44.8283004761,
+    "longitude": -0.715556025505,
+    "fir_icao": "LFBB",
+    "fictive": null
+  },
+  {
+    "name": "Bergerac-Roumanière",
+    "icao": "LFBE",
+    "latitude": 44.8252983093262,
+    "longitude": 0.518611013889313,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulouse-Francazal (BA 101) Air Base",
+    "icao": "LFBF",
+    "latitude": 43.5456008911133,
+    "longitude": 1.36749994754791,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cognac-Châteaubernard (BA 709) Air Base",
+    "icao": "LFBG",
+    "latitude": 45.6582984924316,
+    "longitude": -0.317499995231628,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Rochelle-Île de Ré",
+    "icao": "LFBH",
+    "latitude": 46.17919921875,
+    "longitude": -1.19527995586395,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Poitiers-Biard",
+    "icao": "LFBI",
+    "latitude": 46.5876998901367,
+    "longitude": 0.306665986776352,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Junien",
+    "icao": "LFBJ",
+    "latitude": 45.9033012390137,
+    "longitude": 0.920000016689301,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montluçon-Guéret",
+    "icao": "LFBK",
+    "latitude": 46.222599029541,
+    "longitude": 2.3639600276947,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Limoges",
+    "icao": "LFBL",
+    "latitude": 45.8628005981445,
+    "longitude": 1.17944002151489,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont-de-Marsan (BA 118) Air Base",
+    "icao": "LFBM",
+    "latitude": 43.9117012023926,
+    "longitude": -0.507499992847443,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Niort-Souché",
+    "icao": "LFBN",
+    "latitude": 46.3112983703613,
+    "longitude": -0.401502996683121,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulouse-Blagnac",
+    "icao": "LFBO",
+    "latitude": 43.629101,
+    "longitude": 1.36382,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pau Pyrénées",
+    "icao": "LFBP",
+    "latitude": 43.3800010681152,
+    "longitude": -0.418610990047455,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Muret-Lherm",
+    "icao": "LFBR",
+    "latitude": 43.4488983154297,
+    "longitude": 1.26332998275757,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Biscarrosse Parentis",
+    "icao": "LFBS",
+    "latitude": 44.3694000244141,
+    "longitude": -1.13056004047394,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tarbes-Lourdes-Pyrénées",
+    "icao": "LFBT",
+    "latitude": 43.1786994934082,
+    "longitude": -0.006438999902457,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Angoulême-Brie-Champniers",
+    "icao": "LFBU",
+    "latitude": 45.7291984558105,
+    "longitude": 0.221456006169319,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brive-La Roche",
+    "icao": "LFBV",
+    "latitude": 45.150799,
+    "longitude": 1.469202,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Périgueux-Bassillac",
+    "icao": "LFBX",
+    "latitude": 45.1981010437012,
+    "longitude": 0.815555989742279,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dax Seyresse",
+    "icao": "LFBY",
+    "latitude": 43.6892013549805,
+    "longitude": -1.06888997554779,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Biarritz-Anglet-Bayonne",
+    "icao": "LFBZ",
+    "latitude": 43.4683990478516,
+    "longitude": -1.5233199596405,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châtellerault",
+    "icao": "LFCA",
+    "latitude": 46.7813987731934,
+    "longitude": 0.551944017410278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bagnères De Luchon",
+    "icao": "LFCB",
+    "latitude": 42.7999992370605,
+    "longitude": 0.600000023841858,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cahors-Lalbenque",
+    "icao": "LFCC",
+    "latitude": 44.3513984680176,
+    "longitude": 1.47528004646301,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Andernos Les Bains",
+    "icao": "LFCD",
+    "latitude": 44.7560997009277,
+    "longitude": -1.06333005428314,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Guéret St Laurent",
+    "icao": "LFCE",
+    "latitude": 46.17919921875,
+    "longitude": 1.95833003520966,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Figeac Livernon",
+    "icao": "LFCF",
+    "latitude": 44.6733016967773,
+    "longitude": 1.78917002677917,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Girons-Antichan",
+    "icao": "LFCG",
+    "latitude": 43.0078010559082,
+    "longitude": 1.10315001010895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Arcachon-La Teste-de-Buch",
+    "icao": "LFCH",
+    "latitude": 44.5964012145996,
+    "longitude": -1.11082994937897,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Albi-Le Séquestre",
+    "icao": "LFCI",
+    "latitude": 43.9138984680176,
+    "longitude": 2.11305999755859,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Jonzac Neulles",
+    "icao": "LFCJ",
+    "latitude": 45.4841995239258,
+    "longitude": -0.421389013528824,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castres-Mazamet",
+    "icao": "LFCK",
+    "latitude": 43.5563011169434,
+    "longitude": 2.2891800403595,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulouse-Lasbordes",
+    "icao": "LFCL",
+    "latitude": 43.5861015319824,
+    "longitude": 1.49916994571686,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Millau-Larzac",
+    "icao": "LFCM",
+    "latitude": 43.9892997741699,
+    "longitude": 3.18300008773804,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nogaro",
+    "icao": "LFCN",
+    "latitude": 43.7696990966797,
+    "longitude": -0.0327779985964298,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Oloron Herrere",
+    "icao": "LFCO",
+    "latitude": 43.1646995544434,
+    "longitude": -0.560277998447418,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pons Avy",
+    "icao": "LFCP",
+    "latitude": 45.5699996948242,
+    "longitude": -0.514999985694885,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Graulhet-Montdragon",
+    "icao": "LFCQ",
+    "latitude": 43.7710990905762,
+    "longitude": 2.01082992553711,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rodez-Marcillac",
+    "icao": "LFCR",
+    "latitude": 44.407901763916,
+    "longitude": 2.48267006874084,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bordeaux Léognan Saucats",
+    "icao": "LFCS",
+    "latitude": 44.700298,
+    "longitude": -0.595556,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Thouars",
+    "icao": "LFCT",
+    "latitude": 46.9618988037109,
+    "longitude": -0.152777999639511,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ussel-Thalamy",
+    "icao": "LFCU",
+    "latitude": 45.5346984863281,
+    "longitude": 2.42389011383057,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Villefranche De Rouergue",
+    "icao": "LFCV",
+    "latitude": 44.3699989318848,
+    "longitude": 2.02805995941162,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Villeneuve-sur-Lot",
+    "icao": "LFCW",
+    "latitude": 44.396900177002,
+    "longitude": 0.758889019489288,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castelsarrasin Moissac",
+    "icao": "LFCX",
+    "latitude": 44.0868988037109,
+    "longitude": 1.12832999229431,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Royan-Médis",
+    "icao": "LFCY",
+    "latitude": 45.628101348877,
+    "longitude": -0.972500026226044,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mimizan",
+    "icao": "LFCZ",
+    "latitude": 44.145928,
+    "longitude": -1.16432,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aire-sur-l'Adour",
+    "icao": "LFDA",
+    "latitude": 43.709400177002,
+    "longitude": -0.245278000831604,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montauban",
+    "icao": "LFDB",
+    "latitude": 44.0256996154785,
+    "longitude": 1.37803995609283,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montendre Marcillac",
+    "icao": "LFDC",
+    "latitude": 45.2743988037109,
+    "longitude": -0.452221989631653,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Égletons",
+    "icao": "LFDE",
+    "latitude": 45.4213981628418,
+    "longitude": 2.06889009475708,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ste Foy La Grande",
+    "icao": "LFDF",
+    "latitude": 44.8535995483398,
+    "longitude": 0.176667004823685,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Gaillac Lisle Sur Tarn",
+    "icao": "LFDG",
+    "latitude": 43.8838996887,
+    "longitude": 1.87556004524,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Auch-Lamothe",
+    "icao": "LFDH",
+    "latitude": 43.687801361084,
+    "longitude": 0.601666986942291,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Libourne-Artigues-de-Lussac",
+    "icao": "LFDI",
+    "latitude": 44.9824981689453,
+    "longitude": -0.134721994400024,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pamiers-Les Pujols",
+    "icao": "LFDJ",
+    "latitude": 43.0905990600586,
+    "longitude": 1.69582998752594,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Soulac Sur Mer",
+    "icao": "LFDK",
+    "latitude": 45.4949989318848,
+    "longitude": -1.08221995830536,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Loudun",
+    "icao": "LFDL",
+    "latitude": 47.0372009277344,
+    "longitude": 0.101388998329639,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Marmande-Virazeil",
+    "icao": "LFDM",
+    "latitude": 44.4989013671875,
+    "longitude": 0.200514003634453,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rochefort-Saint-Agnant (BA 721)",
+    "icao": "LFDN",
+    "latitude": 45.8877983093262,
+    "longitude": -0.983056008815765,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bordeaux Souge",
+    "icao": "LFDO",
+    "latitude": 44.8499984741211,
+    "longitude": -0.800000011920929,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Pierre D'oléron",
+    "icao": "LFDP",
+    "latitude": 45.9592018127441,
+    "longitude": -1.31611001491547,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castelnau Magnoac",
+    "icao": "LFDQ",
+    "latitude": 43.2793998718262,
+    "longitude": 0.521667003631592,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Réole Floudes",
+    "icao": "LFDR",
+    "latitude": 44.5680999755859,
+    "longitude": -0.0561110004782677,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sarlat Domme",
+    "icao": "LFDS",
+    "latitude": 44.7933006286621,
+    "longitude": 1.24471998214722,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tarbes Laloubère",
+    "icao": "LFDT",
+    "latitude": 43.2160987854004,
+    "longitude": 0.0786110013723373,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lesparre St Laurent Medoc",
+    "icao": "LFDU",
+    "latitude": 45.1977996826172,
+    "longitude": -0.88222199678421,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Couhé Vérac",
+    "icao": "LFDV",
+    "latitude": 46.2728004455566,
+    "longitude": 0.19055600464344,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chauvigny",
+    "icao": "LFDW",
+    "latitude": 46.5835990905762,
+    "longitude": 0.642499983310699,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fumel Montayral",
+    "icao": "LFDX",
+    "latitude": 44.4636001586914,
+    "longitude": 1.00777995586395,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bordeaux Yvrac",
+    "icao": "LFDY",
+    "latitude": 44.8772010803223,
+    "longitude": -0.479167014360428,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Condat-Sur-Vezere",
+    "icao": "LFDZ",
+    "latitude": 45.0999984741211,
+    "longitude": 1.21700000762939,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Belle Ile",
+    "icao": "LFEA",
+    "latitude": 47.3266983032227,
+    "longitude": -3.19832992553711,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dinan - Trélivan",
+    "icao": "LFEB",
+    "latitude": 48.4444007873535,
+    "longitude": -2.10138988494873,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ouessant",
+    "icao": "LFEC",
+    "latitude": 48.4631996154785,
+    "longitude": -5.06358003616333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pontivy",
+    "icao": "LFED",
+    "latitude": 48.0584983825684,
+    "longitude": -2.92182993888855,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Amboise Dierre",
+    "icao": "LFEF",
+    "latitude": 47.3414001464844,
+    "longitude": 0.942499995231628,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Argenton Sur Creuse",
+    "icao": "LFEG",
+    "latitude": 46.5969009399414,
+    "longitude": 1.60249996185303,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aubigny-sur-Nère",
+    "icao": "LFEH",
+    "latitude": 47.480556,
+    "longitude": 2.394167,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Briare Chatillon",
+    "icao": "LFEI",
+    "latitude": 47.6143989562988,
+    "longitude": 2.78193998336792,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châteauroux Villers",
+    "icao": "LFEJ",
+    "latitude": 46.8418998718262,
+    "longitude": 1.62110996246338,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Issoudun Le Fay",
+    "icao": "LFEK",
+    "latitude": 46.888599395752,
+    "longitude": 2.04138994216919,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Blanc",
+    "icao": "LFEL",
+    "latitude": 46.6208000183105,
+    "longitude": 1.08749997615814,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montargis Vimory",
+    "icao": "LFEM",
+    "latitude": 47.9606018066406,
+    "longitude": 2.68583011627197,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tours Sorigny",
+    "icao": "LFEN",
+    "latitude": 47.2675018310547,
+    "longitude": 0.701111018657684,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Malo St Serva",
+    "icao": "LFEO",
+    "latitude": 48.6136016845703,
+    "longitude": -1.9736100435257,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pouilly Maconge",
+    "icao": "LFEP",
+    "latitude": 47.2214012145996,
+    "longitude": 4.56111001968384,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quiberon",
+    "icao": "LFEQ",
+    "latitude": 47.4822006225586,
+    "longitude": -3.09999990463257,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Redon Bains-sur-Oust",
+    "icao": "LFER",
+    "latitude": 47.6994018554688,
+    "longitude": -2.03666996955872,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Guiscriff Scaer",
+    "icao": "LFES",
+    "latitude": 48.0525016784668,
+    "longitude": -3.66472005844116,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Til Châtel",
+    "icao": "LFET",
+    "latitude": 47.5475006103516,
+    "longitude": 5.21193981170654,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bar Le Duc",
+    "icao": "LFEU",
+    "latitude": 48.8683013916016,
+    "longitude": 5.18583011627197,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Gray St Adrien",
+    "icao": "LFEV",
+    "latitude": 47.4333000183105,
+    "longitude": 5.62277984619141,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saulieu Liernais",
+    "icao": "LFEW",
+    "latitude": 47.2393989562988,
+    "longitude": 4.26583003997803,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nancy Azelot",
+    "icao": "LFEX",
+    "latitude": 48.5928001403809,
+    "longitude": 6.24110984802246,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Île d'Yeu",
+    "icao": "LFEY",
+    "latitude": 46.7186012268066,
+    "longitude": -2.39110994338989,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nancy Malzeville",
+    "icao": "LFEZ",
+    "latitude": 48.7243995666504,
+    "longitude": 6.20777988433838,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Buno Bonnevaux",
+    "icao": "LFFB",
+    "latitude": 48.3511009216309,
+    "longitude": 2.42555999755859,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mantes Chérence",
+    "icao": "LFFC",
+    "latitude": 49.0788993835449,
+    "longitude": 1.6897200345993,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St André De L'eure",
+    "icao": "LFFD",
+    "latitude": 48.8986015319824,
+    "longitude": 1.25056004524231,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Enghien Moisselles",
+    "icao": "LFFE",
+    "latitude": 49.0463981628418,
+    "longitude": 2.35306000709534,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Ferté Gaucher",
+    "icao": "LFFG",
+    "latitude": 48.7557983398438,
+    "longitude": 3.27666997909546,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Château-Thierry - Belleau",
+    "icao": "LFFH",
+    "latitude": 49.0671997070312,
+    "longitude": 3.35694003105164,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ancenis",
+    "icao": "LFFI",
+    "latitude": 47.4081001281738,
+    "longitude": -1.17750000953674,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Joinville Mussey",
+    "icao": "LFFJ",
+    "latitude": 48.386100769043,
+    "longitude": 5.14499998092651,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fontenay Le Comte",
+    "icao": "LFFK",
+    "latitude": 46.4413986206055,
+    "longitude": -0.792778015136719,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bailleau Armenonville",
+    "icao": "LFFL",
+    "latitude": 48.5158004760742,
+    "longitude": 1.63999998569489,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lamotte Beuvron",
+    "icao": "LFFM",
+    "latitude": 47.6567001342773,
+    "longitude": 1.9891699552536,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brienne-le-Château",
+    "icao": "LFFN",
+    "latitude": 48.4297981262207,
+    "longitude": 4.48222017288208,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pithiviers",
+    "icao": "LFFP",
+    "latitude": 48.1571998596191,
+    "longitude": 2.19250011444092,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Ferté Alais",
+    "icao": "LFFQ",
+    "latitude": 48.4977989196777,
+    "longitude": 2.34332990646362,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bar Sur Seine",
+    "icao": "LFFR",
+    "latitude": 48.0668983459473,
+    "longitude": 4.41360998153687,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Neufchâteau",
+    "icao": "LFFT",
+    "latitude": 48.3624992370605,
+    "longitude": 5.72138977050781,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châteauneuf Sur Cher",
+    "icao": "LFFU",
+    "latitude": 46.8711013793945,
+    "longitude": 2.37694001197815,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vierzon Méreau",
+    "icao": "LFFV",
+    "latitude": 47.1946983337,
+    "longitude": 2.06666994095,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montaigu St Georges",
+    "icao": "LFFW",
+    "latitude": 46.9331016540527,
+    "longitude": -1.32555997371674,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tournus Cuisery",
+    "icao": "LFFX",
+    "latitude": 46.562801361084,
+    "longitude": 4.9766697883606,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Étrépagny",
+    "icao": "LFFY",
+    "latitude": 49.3060989379883,
+    "longitude": 1.63861000537872,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sézanne St Rémy",
+    "icao": "LFFZ",
+    "latitude": 48.7106018066406,
+    "longitude": 3.76416993141174,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Colmar-Houssen",
+    "icao": "LFGA",
+    "latitude": 48.1099014282227,
+    "longitude": 7.35901021957397,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mulhouse-Habsheim",
+    "icao": "LFGB",
+    "latitude": 47.7412986755371,
+    "longitude": 7.43220996856689,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Strasbourg Neuhof",
+    "icao": "LFGC",
+    "latitude": 48.5544013977051,
+    "longitude": 7.77805995941162,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Arbois",
+    "icao": "LFGD",
+    "latitude": 46.9199981689453,
+    "longitude": 5.76000022888184,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avallon",
+    "icao": "LFGE",
+    "latitude": 47.503101348877,
+    "longitude": 3.89944005012512,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Beaune-Challanges",
+    "icao": "LFGF",
+    "latitude": 47.0059013366699,
+    "longitude": 4.89342021942139,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Belfort Chaux",
+    "icao": "LFGG",
+    "latitude": 47.7022018432617,
+    "longitude": 6.83249998092651,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cosne Sur Loire",
+    "icao": "LFGH",
+    "latitude": 47.3605995178223,
+    "longitude": 2.91944003105164,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dijon Darois",
+    "icao": "LFGI",
+    "latitude": 47.3869018554688,
+    "longitude": 4.94806003570557,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dole-Tavaux",
+    "icao": "LFGJ",
+    "latitude": 47.0390014648438,
+    "longitude": 5.42724990844727,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Joigny",
+    "icao": "LFGK",
+    "latitude": 47.9921989440918,
+    "longitude": 3.39222002029419,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lons Le Saulnier Courlaoux",
+    "icao": "LFGL",
+    "latitude": 46.6761016845703,
+    "longitude": 5.47110986709595,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montceau Les Mines",
+    "icao": "LFGM",
+    "latitude": 46.6041984558105,
+    "longitude": 4.33388996124268,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paray Le Monial",
+    "icao": "LFGN",
+    "latitude": 46.4678001403809,
+    "longitude": 4.13500022888184,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pont Sur Yonne",
+    "icao": "LFGO",
+    "latitude": 48.290599822998,
+    "longitude": 3.25082993507385,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Florentin Cheu",
+    "icao": "LFGP",
+    "latitude": 47.9822006225586,
+    "longitude": 3.77833008766174,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Semur En Auxois",
+    "icao": "LFGQ",
+    "latitude": 47.4818992614746,
+    "longitude": 4.34417009353638,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Doncourt Les Conflans",
+    "icao": "LFGR",
+    "latitude": 49.1528015136719,
+    "longitude": 5.93277978897095,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Longuyon Villette",
+    "icao": "LFGS",
+    "latitude": 49.4844017028809,
+    "longitude": 5.5727801322937,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sarrebourg Buhl",
+    "icao": "LFGT",
+    "latitude": 48.7188987731934,
+    "longitude": 7.07944011688232,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sarreguemines Neunkirch",
+    "icao": "LFGU",
+    "latitude": 49.128101348877,
+    "longitude": 7.10832977294922,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Thionville Yutz",
+    "icao": "LFGV",
+    "latitude": 49.3546981812,
+    "longitude": 6.20138978958,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Verdun-Le Rozelier",
+    "icao": "LFGW",
+    "latitude": 49.1223983764648,
+    "longitude": 5.46904993057251,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Champagnole Crotenay",
+    "icao": "LFGX",
+    "latitude": 46.7644004821777,
+    "longitude": 5.82082986831665,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Dié Remomeix",
+    "icao": "LFGY",
+    "latitude": 48.2672004699707,
+    "longitude": 7.00860977172852,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nuits St Georges",
+    "icao": "LFGZ",
+    "latitude": 47.1431007385254,
+    "longitude": 4.96917009353638,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Issoire Le Broc",
+    "icao": "LFHA",
+    "latitude": 45.5149993896,
+    "longitude": 3.26749992371,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pérouges - Meximieux",
+    "icao": "LFHC",
+    "latitude": 45.869701385498,
+    "longitude": 5.18722009658813,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pierrelatte",
+    "icao": "LFHD",
+    "latitude": 44.3988990783691,
+    "longitude": 4.71806001663208,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Romans - Saint-Paul",
+    "icao": "LFHE",
+    "latitude": 45.0661010742188,
+    "longitude": 5.10333013534546,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ruoms",
+    "icao": "LFHF",
+    "latitude": 44.4453010559082,
+    "longitude": 4.33388996124268,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Chamond L'horme",
+    "icao": "LFHG",
+    "latitude": 45.4930992126465,
+    "longitude": 4.535560131073,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vienne Reventin",
+    "icao": "LFHH",
+    "latitude": 45.464199066162,
+    "longitude": 4.8294401168823,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Morestel",
+    "icao": "LFHI",
+    "latitude": 45.687801361084,
+    "longitude": 5.45360994338989,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lyon Corbas",
+    "icao": "LFHJ",
+    "latitude": 45.6542015075684,
+    "longitude": 4.91360998153687,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Langogne - Lespéron",
+    "icao": "LFHL",
+    "latitude": 44.7064018249512,
+    "longitude": 3.88832998275757,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Megève",
+    "icao": "LFHM",
+    "latitude": 45.82080078125,
+    "longitude": 6.65221977233887,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bellegarde-Vouvray",
+    "icao": "LFHN",
+    "latitude": 46.1241989135742,
+    "longitude": 5.80610990524292,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aubenas-Ardèche Méridional",
+    "icao": "LFHO",
+    "latitude": 44.5442008972,
+    "longitude": 4.37218999863,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Puy-Loudes",
+    "icao": "LFHP",
+    "latitude": 45.0806999206543,
+    "longitude": 3.76289010047913,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Flour-Coltines",
+    "icao": "LFHQ",
+    "latitude": 45.0764007568359,
+    "longitude": 2.99360990524292,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brioude Beaumont",
+    "icao": "LFHR",
+    "latitude": 45.3250007629,
+    "longitude": 3.35916996002,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bourg-Ceyzériat",
+    "icao": "LFHS",
+    "latitude": 46.2009010314941,
+    "longitude": 5.2920298576355,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ambert Le Poyet",
+    "icao": "LFHT",
+    "latitude": 45.5168991088867,
+    "longitude": 3.74639010429382,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "L'alpe D'huez",
+    "icao": "LFHU",
+    "latitude": 45.0882987976074,
+    "longitude": 6.08472013473511,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Villefranche-Tarare",
+    "icao": "LFHV",
+    "latitude": 45.919983,
+    "longitude": 4.634931,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Belleville Villié Morgon",
+    "icao": "LFHW",
+    "latitude": 46.1427993774414,
+    "longitude": 4.71471977233887,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lapalisse - Périgny",
+    "icao": "LFHX",
+    "latitude": 46.2538986206,
+    "longitude": 3.58860993385,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Moulins-Montbeugny",
+    "icao": "LFHY",
+    "latitude": 46.5345993041992,
+    "longitude": 3.42371988296509,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sallanches",
+    "icao": "LFHZ",
+    "latitude": 45.9538993835449,
+    "longitude": 6.63917016983032,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Belvès St Pardoux",
+    "icao": "LFIB",
+    "latitude": 44.7825012207031,
+    "longitude": 0.958889007568359,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Condom Valence Sur Baise",
+    "icao": "LFID",
+    "latitude": 43.9103012084961,
+    "longitude": 0.387221992015839,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Affrique-Belmont",
+    "icao": "LFIF",
+    "latitude": 43.823299407959,
+    "longitude": 2.74528002738953,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cassagnes-Bégonhès",
+    "icao": "LFIG",
+    "latitude": 44.1777992248535,
+    "longitude": 2.51500010490417,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chalais",
+    "icao": "LFIH",
+    "latitude": 45.2681007385254,
+    "longitude": 0.0169440004974604,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ribérac St Aulaye",
+    "icao": "LFIK",
+    "latitude": 45.2402992248535,
+    "longitude": 0.266943991184235,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rion Des Landes",
+    "icao": "LFIL",
+    "latitude": 43.9157981872559,
+    "longitude": -0.949167013168335,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Gaudens Montrejeau",
+    "icao": "LFIM",
+    "latitude": 43.1086006164551,
+    "longitude": 0.620278000831604,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montaudran",
+    "icao": "LFIO",
+    "latitude": 43.568901062,
+    "longitude": 1.48082995415,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Peyresourde Balestas",
+    "icao": "LFIP",
+    "latitude": 42.7969017028809,
+    "longitude": 0.435555994510651,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Revel Montgey",
+    "icao": "LFIR",
+    "latitude": 43.4813995361328,
+    "longitude": 1.98000001907349,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint Inglevert",
+    "icao": "LFIS",
+    "latitude": 50.8826083032,
+    "longitude": 1.73575687832,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulouse Bourg St Bernard",
+    "icao": "LFIT",
+    "latitude": 43.6122016906738,
+    "longitude": 1.72528004646301,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vendays Montalivet",
+    "icao": "LFIV",
+    "latitude": 45.3805999755859,
+    "longitude": -1.1158299446106,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Itxassou",
+    "icao": "LFIX",
+    "latitude": 43.3375015258789,
+    "longitude": -1.42221999168396,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Jean D'angély",
+    "icao": "LFIY",
+    "latitude": 45.9664001464844,
+    "longitude": -0.525277972221375,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chaumont-Semoutiers",
+    "icao": "LFJA",
+    "latitude": 48.0862998962,
+    "longitude": 5.04901981354,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mauléon",
+    "icao": "LFJB",
+    "latitude": 46.9028015136719,
+    "longitude": -0.697777986526489,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clamecy",
+    "icao": "LFJC",
+    "latitude": 47.4383010864258,
+    "longitude": 3.50861001014709,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Corlier",
+    "icao": "LFJD",
+    "latitude": 46.0396995544434,
+    "longitude": 5.49694013595581,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Motte Chalancon",
+    "icao": "LFJE",
+    "latitude": 44.4958000183105,
+    "longitude": 5.40285015106201,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aubenasson",
+    "icao": "LFJF",
+    "latitude": 44.6944999694824,
+    "longitude": 5.15111017227173,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cazeres Palaminy",
+    "icao": "LFJH",
+    "latitude": 43.2022018432617,
+    "longitude": 1.05111002922058,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Marennes Le Bournet",
+    "icao": "LFJI",
+    "latitude": 45.8250007629395,
+    "longitude": -1.07667005062103,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Metz-Nancy-Lorraine",
+    "icao": "LFJL",
+    "latitude": 48.9821014404,
+    "longitude": 6.25131988525,
+    "fir_icao": "LFEE",
+    "fictive": null
+  },
+  {
+    "name": "Chailley",
+    "icao": "LFJM",
+    "latitude": 48.080715,
+    "longitude": 3.71423721,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Angers-Loire",
+    "icao": "LFJR",
+    "latitude": 47.5602989196777,
+    "longitude": -0.312222003936768,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Soissons - Courmelles",
+    "icao": "LFJS",
+    "latitude": 49.3457984924316,
+    "longitude": 3.28416991233826,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tours Le Louroux",
+    "icao": "LFJT",
+    "latitude": 47.1500015258789,
+    "longitude": 0.712777972221375,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lurcy-Lévis",
+    "icao": "LFJU",
+    "latitude": 46.7136001586914,
+    "longitude": 2.94589996337891,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Albertville",
+    "icao": "LFKA",
+    "latitude": 45.6272010803,
+    "longitude": 6.32972002029,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bastia-Poretta",
+    "icao": "LFKB",
+    "latitude": 42.5527000427246,
+    "longitude": 9.48373031616211,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Calvi-Sainte-Catherine",
+    "icao": "LFKC",
+    "latitude": 42.5307998657227,
+    "longitude": 8.79319000244141,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sollières Sardières",
+    "icao": "LFKD",
+    "latitude": 45.2564010620117,
+    "longitude": 6.80139017105103,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Jean-en-Royans",
+    "icao": "LFKE",
+    "latitude": 45.0278015136719,
+    "longitude": 5.30999994277954,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Figari Sud-Corse",
+    "icao": "LFKF",
+    "latitude": 41.5005989074707,
+    "longitude": 9.09778022766113,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ghisonaccia Alzitone",
+    "icao": "LFKG",
+    "latitude": 42.0550003051758,
+    "longitude": 9.40194034576416,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Jean D'avelanne",
+    "icao": "LFKH",
+    "latitude": 45.5167007446289,
+    "longitude": 5.68056011199951,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ajaccio-Napoléon Bonaparte",
+    "icao": "LFKJ",
+    "latitude": 41.9235992431641,
+    "longitude": 8.8029203414917,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lyon Brindas",
+    "icao": "LFKL",
+    "latitude": 45.7117004394531,
+    "longitude": 4.6977801322937,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Galmier",
+    "icao": "LFKM",
+    "latitude": 45.6072006225586,
+    "longitude": 4.30583000183105,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Propriano",
+    "icao": "LFKO",
+    "latitude": 41.6605987548828,
+    "longitude": 8.88974952697754,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Tour Du Pin",
+    "icao": "LFKP",
+    "latitude": 45.560001373291,
+    "longitude": 5.38471984863281,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Solenzara (BA 126) Air Base",
+    "icao": "LFKS",
+    "latitude": 41.9244003295898,
+    "longitude": 9.4060001373291,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Corte",
+    "icao": "LFKT",
+    "latitude": 42.2935981750488,
+    "longitude": 9.19305992126465,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Méribel",
+    "icao": "LFKX",
+    "latitude": 45.4068984985352,
+    "longitude": 6.58056020736694,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Belley - Peyrieu",
+    "icao": "LFKY",
+    "latitude": 45.6949996948242,
+    "longitude": 5.69278001785278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Claude Pratz",
+    "icao": "LFKZ",
+    "latitude": 46.3889007568,
+    "longitude": 5.77222013474,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Auxerre-Branches",
+    "icao": "LFLA",
+    "latitude": 47.8502006530762,
+    "longitude": 3.49710988998413,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chambéry-Savoie",
+    "icao": "LFLB",
+    "latitude": 45.6380996704102,
+    "longitude": 5.88022994995117,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Clermont-Ferrand Auvergne",
+    "icao": "LFLC",
+    "latitude": 45.7867012024,
+    "longitude": 3.1691699028,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bourges",
+    "icao": "LFLD",
+    "latitude": 47.0581016540527,
+    "longitude": 2.37028002738953,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chambéry-Challes-les-Eaux",
+    "icao": "LFLE",
+    "latitude": 45.5611000061,
+    "longitude": 5.97575998306,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Grenoble Le Versoud",
+    "icao": "LFLG",
+    "latitude": 45.2192001342773,
+    "longitude": 5.8497200012207,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chalon-Champforgeuil",
+    "icao": "LFLH",
+    "latitude": 46.826099395752,
+    "longitude": 4.81762981414795,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Annemasse",
+    "icao": "LFLI",
+    "latitude": 46.1920013428,
+    "longitude": 6.26839017868,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Courchevel",
+    "icao": "LFLJ",
+    "latitude": 45.3967018127441,
+    "longitude": 6.63471984863281,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Oyonnax-Arbent",
+    "icao": "LFLK",
+    "latitude": 46.2792015075684,
+    "longitude": 5.66750001907349,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lyon Saint-Exupéry",
+    "icao": "LFLL",
+    "latitude": 45.726398468,
+    "longitude": 5.09082984924,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mâcon-Charnay",
+    "icao": "LFLM",
+    "latitude": 46.2951011657715,
+    "longitude": 4.79577016830444,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Yan",
+    "icao": "LFLN",
+    "latitude": 46.4124984741211,
+    "longitude": 4.01325988769531,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Roanne-Renaison",
+    "icao": "LFLO",
+    "latitude": 46.0583000183105,
+    "longitude": 4.00138998031616,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Annecy-Haute-Savoie-Mont Blanc",
+    "icao": "LFLP",
+    "latitude": 45.92919921875,
+    "longitude": 6.09876012802124,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montélimar - Ancône",
+    "icao": "LFLQ",
+    "latitude": 44.5835990905762,
+    "longitude": 4.74056005477905,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Rambert-d'Albon",
+    "icao": "LFLR",
+    "latitude": 45.2560997009277,
+    "longitude": 4.82582998275757,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Grenoble-Isère",
+    "icao": "LFLS",
+    "latitude": 45.3628997802734,
+    "longitude": 5.32937002182007,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montluçon-Domérat",
+    "icao": "LFLT",
+    "latitude": 46.3525009155273,
+    "longitude": 2.57048988342285,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Valence-Chabeuil",
+    "icao": "LFLU",
+    "latitude": 44.9216003417969,
+    "longitude": 4.96990013122559,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vichy-Charmeil",
+    "icao": "LFLV",
+    "latitude": 46.1697006225586,
+    "longitude": 3.40373992919922,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aurillac",
+    "icao": "LFLW",
+    "latitude": 44.8913993835449,
+    "longitude": 2.42194008827209,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châteauroux-Déols \"Marcel Dassault\"",
+    "icao": "LFLX",
+    "latitude": 46.8622016906738,
+    "longitude": 1.73066997528076,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lyon-Bron",
+    "icao": "LFLY",
+    "latitude": 45.7271995544434,
+    "longitude": 4.94427013397217,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Feurs Chambéon",
+    "icao": "LFLZ",
+    "latitude": 45.7036018371582,
+    "longitude": 4.20110988616943,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aix-en-Provence (BA 114)",
+    "icao": "LFMA",
+    "latitude": 43.5055999755859,
+    "longitude": 5.36778020858765,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Luc-Le Cannet",
+    "icao": "LFMC",
+    "latitude": 43.3847007751465,
+    "longitude": 6.38713979721069,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cannes-Mandelieu",
+    "icao": "LFMD",
+    "latitude": 43.5419998168945,
+    "longitude": 6.9534797668457,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nîmes Courbessac",
+    "icao": "LFME",
+    "latitude": 43.8539009094238,
+    "longitude": 4.41360998153687,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fayence",
+    "icao": "LFMF",
+    "latitude": 43.6088981628418,
+    "longitude": 6.70277976989746,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montagne Noire",
+    "icao": "LFMG",
+    "latitude": 43.4075012207031,
+    "longitude": 1.9902800321579,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Étienne-Bouthéon",
+    "icao": "LFMH",
+    "latitude": 45.540599822998,
+    "longitude": 4.29639005661011,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Istres Le Tubé/Istres Air Base (BA 125)",
+    "icao": "LFMI",
+    "latitude": 43.5227012634277,
+    "longitude": 4.92384004592896,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Carcassonne",
+    "icao": "LFMK",
+    "latitude": 43.2159996032715,
+    "longitude": 2.30631995201111,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Marseille Provence",
+    "icao": "LFML",
+    "latitude": 43.439271922,
+    "longitude": 5.22142410278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nice-Côte d'Azur",
+    "icao": "LFMN",
+    "latitude": 43.6584014893,
+    "longitude": 7.21586990356,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Orange-Caritat (BA 115) Air Base",
+    "icao": "LFMO",
+    "latitude": 44.1404991149902,
+    "longitude": 4.86672019958496,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Perpignan-Rivesaltes (Llabanère)",
+    "icao": "LFMP",
+    "latitude": 42.7403984069824,
+    "longitude": 2.87067008018494,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Castellet",
+    "icao": "LFMQ",
+    "latitude": 43.252498626709,
+    "longitude": 5.78519010543823,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Barcelonnette - Saint-Pons",
+    "icao": "LFMR",
+    "latitude": 44.387198,
+    "longitude": 6.609186,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Alès-Deaux",
+    "icao": "LFMS",
+    "latitude": 44.0696983337402,
+    "longitude": 4.14211988449097,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montpellier-Méditerranée",
+    "icao": "LFMT",
+    "latitude": 43.5761985778809,
+    "longitude": 3.96301007270813,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Béziers-Vias",
+    "icao": "LFMU",
+    "latitude": 43.3235015869141,
+    "longitude": 3.35389995574951,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avignon-Caumont",
+    "icao": "LFMV",
+    "latitude": 43.907299041748,
+    "longitude": 4.90183019638062,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Castelnaudary Villeneuve",
+    "icao": "LFMW",
+    "latitude": 43.312198638916,
+    "longitude": 1.92111003398895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Château-Arnoux-Saint-Auban",
+    "icao": "LFMX",
+    "latitude": 44.060001373291,
+    "longitude": 5.99139022827148,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Salon-de-Provence (BA 701) Air Base",
+    "icao": "LFMY",
+    "latitude": 43.6063995361328,
+    "longitude": 5.10925006866455,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lézignan-Corbières",
+    "icao": "LFMZ",
+    "latitude": 43.1758003234863,
+    "longitude": 2.73416996002197,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Gap - Tallard",
+    "icao": "LFNA",
+    "latitude": 44.4550018310547,
+    "longitude": 6.03777980804443,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mende-Brenoux",
+    "icao": "LFNB",
+    "latitude": 44.5021018981934,
+    "longitude": 3.53281998634338,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont-Dauphin - St-Crépin",
+    "icao": "LFNC",
+    "latitude": 44.7016983032227,
+    "longitude": 6.60027980804443,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pont St Esprit",
+    "icao": "LFND",
+    "latitude": 44.269401550293,
+    "longitude": 4.65332984924316,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Salon Eyguières",
+    "icao": "LFNE",
+    "latitude": 43.6582984924316,
+    "longitude": 5.01360988616943,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vinon Sur Verdon",
+    "icao": "LFNF",
+    "latitude": 43.7378005981445,
+    "longitude": 5.78417015075684,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montpellier Candillargues",
+    "icao": "LFNG",
+    "latitude": 43.6102981567383,
+    "longitude": 4.07028007507324,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Carpentras",
+    "icao": "LFNH",
+    "latitude": 44.0298004150391,
+    "longitude": 5.07806015014648,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Aspres-sur-Buëch",
+    "icao": "LFNJ",
+    "latitude": 44.5189018249512,
+    "longitude": 5.73750019073486,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Martin De Londres",
+    "icao": "LFNL",
+    "latitude": 43.8008003234863,
+    "longitude": 3.78250002861023,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Florac Ste Enimie",
+    "icao": "LFNO",
+    "latitude": 44.2863998413086,
+    "longitude": 3.46667003631592,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pézenas Nizas",
+    "icao": "LFNP",
+    "latitude": 43.5057983398438,
+    "longitude": 3.41360998153687,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mont Louis La Quillane",
+    "icao": "LFNQ",
+    "latitude": 42.5435981750488,
+    "longitude": 2.11999988555908,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Berre La Fare",
+    "icao": "LFNR",
+    "latitude": 43.5377998352051,
+    "longitude": 5.1783299446106,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sisteron - Thèze",
+    "icao": "LFNS",
+    "latitude": 44.2874984741211,
+    "longitude": 5.93028020858765,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avignon Pujaut",
+    "icao": "LFNT",
+    "latitude": 43.996898651123,
+    "longitude": 4.75555992126465,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Uzès",
+    "icao": "LFNU",
+    "latitude": 44.0847015380859,
+    "longitude": 4.39527988433838,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Valréas Visan",
+    "icao": "LFNV",
+    "latitude": 44.3368988037109,
+    "longitude": 4.90806007385254,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Puivert",
+    "icao": "LFNW",
+    "latitude": 42.9113998413086,
+    "longitude": 2.05610990524292,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bédarieux La Tour",
+    "icao": "LFNX",
+    "latitude": 43.6408004760742,
+    "longitude": 3.14556002616882,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Etienne En Devoluy",
+    "icao": "LFNY",
+    "latitude": 44.6688995361328,
+    "longitude": 5.90610980987549,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Mazet De Romanin",
+    "icao": "LFNZ",
+    "latitude": 43.7689018249512,
+    "longitude": 4.89361000061035,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avord (BA 702) Air Base",
+    "icao": "LFOA",
+    "latitude": 47.053299,
+    "longitude": 2.6325,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paris Beauvais Tillé",
+    "icao": "LFOB",
+    "latitude": 49.4543991088867,
+    "longitude": 2.11278009414673,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châteaudun (BA 279)",
+    "icao": "LFOC",
+    "latitude": 48.0581016540527,
+    "longitude": 1.376620054245,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saumur-Saint-Florent",
+    "icao": "LFOD",
+    "latitude": 47.2568016052246,
+    "longitude": -0.115142002701759,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Évreux-Fauville (BA 105) Air Base",
+    "icao": "LFOE",
+    "latitude": 49.0287017822266,
+    "longitude": 1.21985995769501,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Alençon Valframbert",
+    "icao": "LFOF",
+    "latitude": 48.4474983215332,
+    "longitude": 0.109167002141476,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Flers Saint Paul",
+    "icao": "LFOG",
+    "latitude": 48.752498626709,
+    "longitude": -0.589443981647491,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Havre Octeville",
+    "icao": "LFOH",
+    "latitude": 49.5339012145996,
+    "longitude": 0.0880559980869293,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Abbeville",
+    "icao": "LFOI",
+    "latitude": 50.143501,
+    "longitude": 1.83189,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Orléans-Bricy (BA 123) Air Base",
+    "icao": "LFOJ",
+    "latitude": 47.9878005981,
+    "longitude": 1.76056003571,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châlons-Vatry Air Base",
+    "icao": "LFOK",
+    "latitude": 48.7761001586914,
+    "longitude": 4.18449020385742,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "L'aigle St Michel",
+    "icao": "LFOL",
+    "latitude": 48.7597007751465,
+    "longitude": 0.659166991710663,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lessay",
+    "icao": "LFOM",
+    "latitude": 49.2030982971191,
+    "longitude": -1.50666999816895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dreux Vernouillet",
+    "icao": "LFON",
+    "latitude": 48.7066993713379,
+    "longitude": 1.36277997493744,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Les Sables-d'Olonne Talmont",
+    "icao": "LFOO",
+    "latitude": 46.4768981933594,
+    "longitude": -1.72277998924255,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rouen",
+    "icao": "LFOP",
+    "latitude": 49.3842010498047,
+    "longitude": 1.17480003833771,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Blois-Le Breuil",
+    "icao": "LFOQ",
+    "latitude": 47.6785011291504,
+    "longitude": 1.20884001255035,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chartres – Métropole",
+    "icao": "LFOR",
+    "latitude": 48.4589004517,
+    "longitude": 1.52389001846,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "St Valéry Vittefleur",
+    "icao": "LFOS",
+    "latitude": 49.8361015319824,
+    "longitude": 0.654999971389771,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Tours-Val-de-Loire",
+    "icao": "LFOT",
+    "latitude": 47.4322013855,
+    "longitude": 0.727605998516,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cholet Le Pontreau",
+    "icao": "LFOU",
+    "latitude": 47.0820999145508,
+    "longitude": -0.877063989639282,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Laval-Entrammes",
+    "icao": "LFOV",
+    "latitude": 48.0313987731934,
+    "longitude": -0.742986023426056,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Quentin - Roupy",
+    "icao": "LFOW",
+    "latitude": 49.8168983459473,
+    "longitude": 3.20667004585266,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Étampes Mondésir",
+    "icao": "LFOX",
+    "latitude": 48.381901,
+    "longitude": 2.07528,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Havre St Romain",
+    "icao": "LFOY",
+    "latitude": 49.5447006225586,
+    "longitude": 0.361110985279083,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Orléans-Saint-Denis-de-l'Hôtel",
+    "icao": "LFOZ",
+    "latitude": 47.8969,
+    "longitude": 2.16333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Persan Beaumont",
+    "icao": "LFPA",
+    "latitude": 49.1657981872559,
+    "longitude": 2.31306004524231,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paris-Le Bourget",
+    "icao": "LFPB",
+    "latitude": 48.9693984985352,
+    "longitude": 2.44139003753662,
+    "fir_icao": "LFFF",
+    "fictive": null
+  },
+  {
+    "name": "Creil Air Base",
+    "icao": "LFPC",
+    "latitude": 49.2535018920898,
+    "longitude": 2.51914000511169,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bernay – St Martin",
+    "icao": "LFPD",
+    "latitude": 49.1027984619,
+    "longitude": 0.566667020321,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Meaux Esbly",
+    "icao": "LFPE",
+    "latitude": 48.9277992248535,
+    "longitude": 2.83527994155884,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Beynes Thiverval",
+    "icao": "LFPF",
+    "latitude": 48.8436012268066,
+    "longitude": 1.90889000892639,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paris Charles de Gaulle",
+    "icao": "LFPG",
+    "latitude": 49.0127983093,
+    "longitude": 2.54999995232,
+    "fir_icao": "LFFF",
+    "fictive": null
+  },
+  {
+    "name": "Chelles le Pin",
+    "icao": "LFPH",
+    "latitude": 48.8978004455566,
+    "longitude": 2.60750007629395,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paris Issy-les-Moulineaux Heliport",
+    "icao": "LFPI",
+    "latitude": 48.8333015441895,
+    "longitude": 2.27277994155884,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Coulommiers-Voisins",
+    "icao": "LFPK",
+    "latitude": 48.8376998901367,
+    "longitude": 3.01611995697021,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lognes Emerainville",
+    "icao": "LFPL",
+    "latitude": 48.821028,
+    "longitude": 2.625967,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Melun-Villaroche Air Base",
+    "icao": "LFPM",
+    "latitude": 48.6046981811523,
+    "longitude": 2.67111992835999,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toussus-le-Noble",
+    "icao": "LFPN",
+    "latitude": 48.7518997192383,
+    "longitude": 2.10618996620178,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Paris Orly",
+    "icao": "LFPO",
+    "latitude": 48.7252998352,
+    "longitude": 2.35944008827,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Plessis Belleville",
+    "icao": "LFPP",
+    "latitude": 49.1100006103516,
+    "longitude": 2.73805999755859,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fontenay Trésigny",
+    "icao": "LFPQ",
+    "latitude": 48.7071990966797,
+    "longitude": 2.90443992614746,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Guyancourt",
+    "icao": "LFPR",
+    "latitude": 48.7602996826172,
+    "longitude": 2.0625,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pontoise - Cormeilles-en-Vexin",
+    "icao": "LFPT",
+    "latitude": 49.0966667,
+    "longitude": 2.0408333,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Moret Episy",
+    "icao": "LFPU",
+    "latitude": 48.3418998718262,
+    "longitude": 2.79943990707397,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Villacoublay-Vélizy (BA 107) Air Base",
+    "icao": "LFPV",
+    "latitude": 48.7743988037,
+    "longitude": 2.20153999329,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Chavenay Villepreux",
+    "icao": "LFPX",
+    "latitude": 48.8436012268066,
+    "longitude": 1.98222005367279,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brétigny sur Orge Air Base",
+    "icao": "LFPY",
+    "latitude": 48.5960998535156,
+    "longitude": 2.33222007751465,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Cyr-l'École",
+    "icao": "LFPZ",
+    "latitude": 48.8114013671875,
+    "longitude": 2.07471990585327,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Reims-Prunay",
+    "icao": "LFQA",
+    "latitude": 49.2086982727051,
+    "longitude": 4.15657997131348,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Troyes-Barberey",
+    "icao": "LFQB",
+    "latitude": 48.3221015930176,
+    "longitude": 4.01669979095459,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lunéville-Croismare",
+    "icao": "LFQC",
+    "latitude": 48.5932998657227,
+    "longitude": 6.54345989227295,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Arras Roclincourt",
+    "icao": "LFQD",
+    "latitude": 50.3238983154297,
+    "longitude": 2.80277991294861,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Étain-Rouvres Air Base",
+    "icao": "LFQE",
+    "latitude": 49.2268981933594,
+    "longitude": 5.67222023010254,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Autun-Bellevue",
+    "icao": "LFQF",
+    "latitude": 46.9673004150391,
+    "longitude": 4.26057004928589,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nevers-Fourchambault",
+    "icao": "LFQG",
+    "latitude": 47.0026016235352,
+    "longitude": 3.11332988739014,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châtillon Sur Seine",
+    "icao": "LFQH",
+    "latitude": 47.8464012145996,
+    "longitude": 4.58056020736694,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cambrai-Épinoy (BA 103) Air Base",
+    "icao": "LFQI",
+    "latitude": 50.2218017578125,
+    "longitude": 3.15423989295959,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Maubeuge-Élesmes",
+    "icao": "LFQJ",
+    "latitude": 50.3105010986328,
+    "longitude": 4.03312015533447,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châlons Ecury Sur Coole",
+    "icao": "LFQK",
+    "latitude": 48.9061012268066,
+    "longitude": 4.35416984558105,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lens Benifontaine",
+    "icao": "LFQL",
+    "latitude": 50.4664001464844,
+    "longitude": 2.81972002983093,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Besançon-La Vèze",
+    "icao": "LFQM",
+    "latitude": 47.2066001892,
+    "longitude": 6.08368015289,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint Omer Wizernes",
+    "icao": "LFQN",
+    "latitude": 50.7294006347656,
+    "longitude": 2.23583006858826,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lille/Marcq-en-Baroeul",
+    "icao": "LFQO",
+    "latitude": 50.687198638916,
+    "longitude": 3.07556009292603,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Phalsbourg-Bourscheid Air Base",
+    "icao": "LFQP",
+    "latitude": 48.766300201416,
+    "longitude": 7.20052003860474,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lille-Lesquin",
+    "icao": "LFQQ",
+    "latitude": 50.565772,
+    "longitude": 3.104031,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Romilly Sur Seine",
+    "icao": "LFQR",
+    "latitude": 48.500598907471,
+    "longitude": 3.7633299827575,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vitry en Artois",
+    "icao": "LFQS",
+    "latitude": 50.3382987976074,
+    "longitude": 2.99333000183105,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Merville-Calonne",
+    "icao": "LFQT",
+    "latitude": 50.6184005737305,
+    "longitude": 2.64224004745483,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sarre Union",
+    "icao": "LFQU",
+    "latitude": 48.9514007568359,
+    "longitude": 7.07777976989746,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Charleville-Mézières",
+    "icao": "LFQV",
+    "latitude": 49.7839012145996,
+    "longitude": 4.6470799446106,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vesoul-Frotey",
+    "icao": "LFQW",
+    "latitude": 47.6375999450684,
+    "longitude": 6.20391988754272,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Juvancourt",
+    "icao": "LFQX",
+    "latitude": 48.1150016784668,
+    "longitude": 4.82082986831665,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saverne Steinbourg",
+    "icao": "LFQY",
+    "latitude": 48.7541999816895,
+    "longitude": 7.42639017105103,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dieuze Guéblange",
+    "icao": "LFQZ",
+    "latitude": 48.7752990722656,
+    "longitude": 6.71528005599976,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Angers Avrille",
+    "icao": "LFRA",
+    "latitude": 47.499199,
+    "longitude": -0.572778,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Brest Bretagne",
+    "icao": "LFRB",
+    "latitude": 48.4478988647461,
+    "longitude": -4.41854000091553,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cherbourg-Maupertus",
+    "icao": "LFRC",
+    "latitude": 49.6501007080078,
+    "longitude": -1.47028005123138,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dinard-Pleurtuit-Saint-Malo",
+    "icao": "LFRD",
+    "latitude": 48.5876998901367,
+    "longitude": -2.07996010780334,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Baule-Escoublac",
+    "icao": "LFRE",
+    "latitude": 47.2893981933594,
+    "longitude": -2.34639000892639,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Granville",
+    "icao": "LFRF",
+    "latitude": 48.8830986022949,
+    "longitude": -1.56417000293732,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Deauville-Saint-Gatien",
+    "icao": "LFRG",
+    "latitude": 49.3652992249,
+    "longitude": 0.154305994511,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lorient South Brittany (Bretagne Sud)",
+    "icao": "LFRH",
+    "latitude": 47.7606010437012,
+    "longitude": -3.44000005722046,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Roche-sur-Yon",
+    "icao": "LFRI",
+    "latitude": 46.7019004821777,
+    "longitude": -1.37863004207611,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Landivisiau Air Base",
+    "icao": "LFRJ",
+    "latitude": 48.5303001403809,
+    "longitude": -4.15163993835449,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Caen-Carpiquet",
+    "icao": "LFRK",
+    "latitude": 49.1733016967773,
+    "longitude": -0.449999988079071,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lanvéoc-Poulmic Air Base",
+    "icao": "LFRL",
+    "latitude": 48.2817001342773,
+    "longitude": -4.44502019882202,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Mans-Arnage",
+    "icao": "LFRM",
+    "latitude": 47.948600769043,
+    "longitude": 0.201666995882988,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rennes-Saint-Jacques",
+    "icao": "LFRN",
+    "latitude": 48.0694999695,
+    "longitude": -1.73478996754,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lannion-Côte de Granit",
+    "icao": "LFRO",
+    "latitude": 48.7543983459473,
+    "longitude": -3.47165989875793,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ploërmel Loyat",
+    "icao": "LFRP",
+    "latitude": 48.002799987793,
+    "longitude": -2.37721991539001,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Quimper-Cornouaille",
+    "icao": "LFRQ",
+    "latitude": 47.9749984741211,
+    "longitude": -4.16778993606567,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nantes Atlantique",
+    "icao": "LFRS",
+    "latitude": 47.1531982422,
+    "longitude": -1.61073005199,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Brieuc-Armor",
+    "icao": "LFRT",
+    "latitude": 48.5377998352051,
+    "longitude": -2.85443997383118,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Morlaix-Ploujean",
+    "icao": "LFRU",
+    "latitude": 48.6031990051,
+    "longitude": -3.81577992439,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vannes-Meucon",
+    "icao": "LFRV",
+    "latitude": 47.7233009338379,
+    "longitude": -2.71855998039246,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Avranches Le Val St Père",
+    "icao": "LFRW",
+    "latitude": 48.6617012023926,
+    "longitude": -1.40444004535675,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Nazaire-Montoir",
+    "icao": "LFRZ",
+    "latitude": 47.312198638916,
+    "longitude": -2.14917993545532,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Besançon–Thise",
+    "icao": "LFSA",
+    "latitude": 47.2747001648,
+    "longitude": 6.08416986465,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "icao": "LFSB",
+    "latitude": 47.59,
+    "longitude": 7.5291667,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Colmar-Meyenheim Air Base",
+    "icao": "LFSC",
+    "latitude": 47.922000885,
+    "longitude": 7.39967012405,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Dijon-Bourgogne",
+    "icao": "LFSD",
+    "latitude": 47.268901825,
+    "longitude": 5.09000015259,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Épinal Dogneville",
+    "icao": "LFSE",
+    "latitude": 48.2118988037109,
+    "longitude": 6.44917011260986,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Metz-Frescaty (BA 128) Air Base",
+    "icao": "LFSF",
+    "latitude": 49.0717010498047,
+    "longitude": 6.13166999816895,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Épinal-Mirecourt",
+    "icao": "LFSG",
+    "latitude": 48.3250007629395,
+    "longitude": 6.06998014450073,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Haguenau",
+    "icao": "LFSH",
+    "latitude": 48.7943000793,
+    "longitude": 7.81760978699,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Dizier-Robinson (BA 113) Air Base",
+    "icao": "LFSI",
+    "latitude": 48.6360015869141,
+    "longitude": 4.8994197845459,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Sedan Douzy",
+    "icao": "LFSJ",
+    "latitude": 49.6596984863281,
+    "longitude": 5.03777980804443,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vitry Le François Vauclerc",
+    "icao": "LFSK",
+    "latitude": 48.7033004760742,
+    "longitude": 4.68444013595581,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toul Rosières Air Base",
+    "icao": "LFSL",
+    "latitude": 48.780001,
+    "longitude": 5.980003,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Montbéliard-Courcelles",
+    "icao": "LFSM",
+    "latitude": 47.4869995117188,
+    "longitude": 6.79054021835327,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nancy-Essey",
+    "icao": "LFSN",
+    "latitude": 48.6921005249023,
+    "longitude": 6.23046016693115,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nancy-Ochey (BA 133) Air Base",
+    "icao": "LFSO",
+    "latitude": 48.5830993652344,
+    "longitude": 5.95499992370605,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pontarlier",
+    "icao": "LFSP",
+    "latitude": 46.9039993286133,
+    "longitude": 6.32737016677856,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fontaine",
+    "icao": "LFSQ",
+    "latitude": 47.655601501465,
+    "longitude": 7.0108299255371,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Reims-Champagne (BA 112)",
+    "icao": "LFSR",
+    "latitude": 49.310001373291,
+    "longitude": 4.05000019073486,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint Sulpice des Landes",
+    "icao": "LFSS",
+    "latitude": 47.7916667,
+    "longitude": -1.643611,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Strasbourg",
+    "icao": "LFST",
+    "latitude": 48.5382995605469,
+    "longitude": 7.62823009490967,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Langres Rolampont",
+    "icao": "LFSU",
+    "latitude": 47.9655990600586,
+    "longitude": 5.29500007629395,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Pont St Vincent",
+    "icao": "LFSV",
+    "latitude": 48.6013984680176,
+    "longitude": 6.05777978897095,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Épernay Plivot",
+    "icao": "LFSW",
+    "latitude": 49.005298614502,
+    "longitude": 4.08693981170654,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
+    "icao": "LFSX",
+    "latitude": 47.787164,
+    "longitude": 6.350151,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cessy Baigneux les Juifs Airfield",
+    "icao": "LFSY",
+    "latitude": 47.609722,
+    "longitude": 4.6175,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vittel Champ De Course",
+    "icao": "LFSZ",
+    "latitude": 48.2238998413086,
+    "longitude": 5.93527984619141,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cuers-Pierrefeu",
+    "icao": "LFTF",
+    "latitude": 43.2477989196777,
+    "longitude": 6.12669992446899,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulon-Hyères",
+    "icao": "LFTH",
+    "latitude": 43.0973014832,
+    "longitude": 6.14602994919,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Serres - La Bâtie-Montsaléon",
+    "icao": "LFTM",
+    "latitude": 44.4583015441895,
+    "longitude": 5.72833013534546,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Grand'combe",
+    "icao": "LFTN",
+    "latitude": 44.2444000244141,
+    "longitude": 4.01221990585327,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Puimoisson",
+    "icao": "LFTP",
+    "latitude": 43.8703002929688,
+    "longitude": 6.16472005844116,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Châteaubriant Pouancé",
+    "icao": "LFTQ",
+    "latitude": 47.7406005859375,
+    "longitude": -1.18806004524231,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Toulon Navy Air Base",
+    "icao": "LFTR",
+    "latitude": 43.082698822,
+    "longitude": 5.93381977081,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Fréjus",
+    "icao": "LFTU",
+    "latitude": 43.4175,
+    "longitude": 6.7357,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Nîmes-Arles-Camargue",
+    "icao": "LFTW",
+    "latitude": 43.7574005126953,
+    "longitude": 4.4163498878479,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "La Môle",
+    "icao": "LFTZ",
+    "latitude": 43.2053985595703,
+    "longitude": 6.48199987411499,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ambérieu Airport (BA 278)",
+    "icao": "LFXA",
+    "latitude": 45.9873008728,
+    "longitude": 5.32844018936,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saintes Thénac",
+    "icao": "LFXB",
+    "latitude": 45.7019004821777,
+    "longitude": -0.63611102104187,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Vittel (Auzainvilliers)",
+    "icao": "LFXC",
+    "latitude": 48.2285995483398,
+    "longitude": 5.84301996231079,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Bitche Army Air Base",
+    "icao": "LFXG",
+    "latitude": 49.06007,
+    "longitude": 7.45009,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Le Valdahon Air Base",
+    "icao": "LFXH",
+    "latitude": 47.1666984558105,
+    "longitude": 6.34999990463257,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Apt St Christol",
+    "icao": "LFXI",
+    "latitude": 44.0532989501953,
+    "longitude": 5.49499988555908,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Mourmelon",
+    "icao": "LFXM",
+    "latitude": 49.111400604248,
+    "longitude": 4.36694002151489,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Coëtquidan Air Base",
+    "icao": "LFXQ",
+    "latitude": 47.9466018676758,
+    "longitude": -2.19230008125305,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Rochefort Soubise",
+    "icao": "LFXR",
+    "latitude": 45.930801,
+    "longitude": -0.995278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Les Mureaux",
+    "icao": "LFXU",
+    "latitude": 48.9982986450195,
+    "longitude": 1.94278001785278,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Damblain",
+    "icao": "LFYD",
+    "latitude": 48.0862998962402,
+    "longitude": 5.66406011581421,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Cambrai Niergnies",
+    "icao": "LFYG",
+    "latitude": 50.1425018310547,
+    "longitude": 3.26500010490417,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Broye Les Pesmes",
+    "icao": "LFYH",
+    "latitude": 47.3166999816895,
+    "longitude": 5.51667022705078,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Marville Montmédy",
+    "icao": "LFYK",
+    "latitude": 49.4592018127441,
+    "longitude": 5.40250015258789,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Lure Malbouhans",
+    "icao": "LFYL",
+    "latitude": 47.7047004699707,
+    "longitude": 6.54582977294922,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Marigny Le Grand Air Base",
+    "icao": "LFYM",
+    "latitude": 48.65999984,
+    "longitude": 3.833889961,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Romorantin Pruniers",
+    "icao": "LFYR",
+    "latitude": 47.32080078125,
+    "longitude": 1.68888998031616,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Ste Léocadie",
+    "icao": "LFYS",
+    "latitude": 42.4472007751465,
+    "longitude": 2.01082992553711,
+    "fir_icao": null,
+    "fictive": null
+  },
+  {
+    "name": "Saint-Simon - Clastres Air Base",
+    "icao": "LFYT",
+    "latitude": 49.75,
+    "longitude": 3.21666667,
+    "fir_icao": null,
+    "fictive": null
+  }
+]

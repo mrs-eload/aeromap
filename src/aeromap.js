@@ -1,3 +1,10 @@
+const FR_COORD = {
+    center: {lat: 46.403, lng: 2.784},
+    boundaries: {
+        min: {lat: 40.61, lng: -4.2365406},
+        max: {lat:50.923644 , lng: 12.007655}
+    }
+};
 const FIRS = {
     "LFFF": {
         color: "#e50a0a",
@@ -24,17 +31,9 @@ const FIRS = {
         is_metropolitan: false
     }
 };
-
-const FR_COORD = {
-    center: {lat: 46.403, lng: 2.784},
-    boundaries: {
-        min: {lat: 40.61, lng: -4.2365406},
-        max: {lat:50.923644 , lng: 12.007655}
-    }
-};
-const SECONDARY = ["LFFF_F_CTR", "LFFF_N_CTR", "LFFF_S_CTR", "LFBB_E_CTR", "LFBB_W_CTR", "LFRR_N_CTR", "LFRR_S_CTR", "LFEE_E_CTR", "LFFF_W_CTR"];
+//const SECONDARY = ["LFFF_F_CTR", "LFFF_N_CTR", "LFFF_S_CTR", "LFBB_E_CTR", "LFBB_W_CTR", "LFRR_N_CTR", "LFRR_S_CTR", "LFEE_E_CTR", "LFFF_W_CTR"];
 import colorssheet from './map/style';
-import * as firs from './firs';
+
 import DrawingTools from './map/drawing_tools';
 import AirspaceCollection from './airspace/airspacecollection';
 
@@ -63,8 +62,6 @@ class AeroMap{
         this.drawing_manager = new DrawingTools();
         this.drawing_manager.init(this.gmap, this.editor_mode);
         this.airspace_collections = new Map();
-        this.initAirspaces();
-        this.drawAirspaces();
     }
 
     setBoundaries(){
@@ -104,6 +101,7 @@ class AeroMap{
         });
     }
     initAirspaces(){
+        if(!this.data) throw new Error ("No data available!");
         for (let fir in FIRS) {
             let airspacecollection = new AirspaceCollection(
                 fir,
@@ -113,22 +111,20 @@ class AeroMap{
                 this.drawing_manager,
                 false
             );
-            for (let f in firs) {
-                if (f.search("SOOO") > -1 || f.search("TTZP") > -1) {
-
-                } else if (f.search(fir) > -1) {
+            this.data.airspaces.forEach((airspace) => {
+                if(airspace.callsign.search(fir) > -1){
                     airspacecollection.createAirspace({
-                        name: "",
-                        callsign: f,
-                        is_secondary: this.setSecondary(f),
+                        name: airspace.name,
+                        callsign: airspace.callsign,
+                        is_secondary: !airspace.primary,
                         fir,
                         color: airspacecollection.color,
-                        coordinates: firs[f],
+                        coordinates: airspace.coordinates,
                         drawingManager: this.drawing_manager,
                         parent : airspacecollection
-                });
+                    });
                 }
-            }
+            });
             this.airspace_collections.set(fir, airspacecollection);
         }
     }
@@ -136,11 +132,23 @@ class AeroMap{
         return SECONDARY.indexOf(callsign) > -1
     }
     drawAirspaces(){
+        if(this.airspace_collections.size === 0){
+            console.warn("No airspaces loaded, data loading tentative...");
+            this.initAirspaces();
+            if(this.airspace_collections.size === 0) throw new Error ("No airspaces data, set some airspaces first!");
+        }
         for(let collection of this.airspace_collections.values()){
             collection.drawAirspaces();
         }
         console.log(this.airspace_collections);
     }
+    setData (data){
+        this.data = data;
+    }
+
+    set data (value){ this._data = value;}
+    get data (){ return this._data;}
+
 }
 
 module.exports = AeroMap;
