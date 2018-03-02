@@ -2756,7 +2756,7 @@
     "icao": "LFAB",
     "latitude": 49.8824996948242,
     "longitude": 1.08527994155884,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -2764,7 +2764,7 @@
     "icao": "LFAC",
     "latitude": 50.962100982666,
     "longitude": 1.95475995540619,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2876,7 +2876,7 @@
     "icao": "LFAQ",
     "latitude": 49.9715003967,
     "longitude": 2.69765996933,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2900,7 +2900,7 @@
     "icao": "LFAT",
     "latitude": 50.5173988342285,
     "longitude": 1.62058997154236,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2916,7 +2916,7 @@
     "icao": "LFAV",
     "latitude": 50.3258018493652,
     "longitude": 3.46126008033752,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2924,7 +2924,7 @@
     "icao": "LFAW",
     "latitude": 49.4113998413086,
     "longitude": 5.89056015014648,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2940,7 +2940,7 @@
     "icao": "LFAY",
     "latitude": 49.8730010986328,
     "longitude": 2.38706994056702,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -2948,7 +2948,7 @@
     "icao": "LFBA",
     "latitude": 44.1747016906738,
     "longitude": 0.590556025505066,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -2956,7 +2956,7 @@
     "icao": "LFBC",
     "latitude": 44.5332984924316,
     "longitude": -1.125,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -2972,7 +2972,7 @@
     "icao": "LFBE",
     "latitude": 44.8252983093262,
     "longitude": 0.518611013889313,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -2980,7 +2980,7 @@
     "icao": "LFBF",
     "latitude": 43.5456008911133,
     "longitude": 1.36749994754791,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -2988,7 +2988,7 @@
     "icao": "LFBG",
     "latitude": 45.6582984924316,
     "longitude": -0.317499995231628,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -2996,7 +2996,7 @@
     "icao": "LFBH",
     "latitude": 46.17919921875,
     "longitude": -1.19527995586395,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3004,7 +3004,7 @@
     "icao": "LFBI",
     "latitude": 46.5876998901367,
     "longitude": 0.306665986776352,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3020,7 +3020,7 @@
     "icao": "LFBK",
     "latitude": 46.222599029541,
     "longitude": 2.3639600276947,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3028,7 +3028,7 @@
     "icao": "LFBL",
     "latitude": 45.8628005981445,
     "longitude": 1.17944002151489,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3036,7 +3036,7 @@
     "icao": "LFBM",
     "latitude": 43.9117012023926,
     "longitude": -0.507499992847443,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3044,7 +3044,7 @@
     "icao": "LFBN",
     "latitude": 46.3112983703613,
     "longitude": -0.401502996683121,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3052,7 +3052,7 @@
     "icao": "LFBO",
     "latitude": 43.629101,
     "longitude": 1.36382,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3060,7 +3060,7 @@
     "icao": "LFBP",
     "latitude": 43.3800010681152,
     "longitude": -0.418610990047455,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3068,7 +3068,7 @@
     "icao": "LFBR",
     "latitude": 43.4488983154297,
     "longitude": 1.26332998275757,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3076,7 +3076,7 @@
     "icao": "LFBS",
     "latitude": 44.3694000244141,
     "longitude": -1.13056004047394,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3084,7 +3084,7 @@
     "icao": "LFBT",
     "latitude": 43.1786994934082,
     "longitude": -0.006438999902457,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3092,7 +3092,7 @@
     "icao": "LFBU",
     "latitude": 45.7291984558105,
     "longitude": 0.221456006169319,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3108,7 +3108,7 @@
     "icao": "LFBX",
     "latitude": 45.1981010437012,
     "longitude": 0.815555989742279,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3116,7 +3116,7 @@
     "icao": "LFBY",
     "latitude": 43.6892013549805,
     "longitude": -1.06888997554779,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3124,7 +3124,7 @@
     "icao": "LFBZ",
     "latitude": 43.4683990478516,
     "longitude": -1.5233199596405,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3132,7 +3132,7 @@
     "icao": "LFCA",
     "latitude": 46.7813987731934,
     "longitude": 0.551944017410278,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3140,7 +3140,7 @@
     "icao": "LFCB",
     "latitude": 42.7999992370605,
     "longitude": 0.600000023841858,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3148,7 +3148,7 @@
     "icao": "LFCC",
     "latitude": 44.3513984680176,
     "longitude": 1.47528004646301,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3156,7 +3156,7 @@
     "icao": "LFCD",
     "latitude": 44.7560997009277,
     "longitude": -1.06333005428314,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3188,7 +3188,7 @@
     "icao": "LFCH",
     "latitude": 44.5964012145996,
     "longitude": -1.11082994937897,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3196,7 +3196,7 @@
     "icao": "LFCI",
     "latitude": 43.9138984680176,
     "longitude": 2.11305999755859,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3212,7 +3212,7 @@
     "icao": "LFCK",
     "latitude": 43.5563011169434,
     "longitude": 2.2891800403595,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3220,7 +3220,7 @@
     "icao": "LFCL",
     "latitude": 43.5861015319824,
     "longitude": 1.49916994571686,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3228,7 +3228,7 @@
     "icao": "LFCM",
     "latitude": 43.9892997741699,
     "longitude": 3.18300008773804,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -3268,7 +3268,7 @@
     "icao": "LFCR",
     "latitude": 44.407901763916,
     "longitude": 2.48267006874084,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3276,7 +3276,7 @@
     "icao": "LFCS",
     "latitude": 44.700298,
     "longitude": -0.595556,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3324,7 +3324,7 @@
     "icao": "LFCY",
     "latitude": 45.628101348877,
     "longitude": -0.972500026226044,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3348,7 +3348,7 @@
     "icao": "LFDB",
     "latitude": 44.0256996154785,
     "longitude": 1.37803995609283,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3356,7 +3356,7 @@
     "icao": "LFDC",
     "latitude": 45.2743988037109,
     "longitude": -0.452221989631653,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3388,7 +3388,7 @@
     "icao": "LFDH",
     "latitude": 43.687801361084,
     "longitude": 0.601666986942291,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3404,7 +3404,7 @@
     "icao": "LFDJ",
     "latitude": 43.0905990600586,
     "longitude": 1.69582998752594,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3436,7 +3436,7 @@
     "icao": "LFDN",
     "latitude": 45.8877983093262,
     "longitude": -0.983056008815765,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3448,11 +3448,11 @@
     "fictive": null
   },
   {
-    "name": "St Pierre D'oléron",
+    "name": "St Pierre D'Oléron",
     "icao": "LFDP",
     "latitude": 45.9592018127441,
     "longitude": -1.31611001491547,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3476,7 +3476,7 @@
     "icao": "LFDS",
     "latitude": 44.7933006286621,
     "longitude": 1.24471998214722,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3540,7 +3540,7 @@
     "icao": "LFEA",
     "latitude": 47.3266983032227,
     "longitude": -3.19832992553711,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3548,7 +3548,7 @@
     "icao": "LFEB",
     "latitude": 48.4444007873535,
     "longitude": -2.10138988494873,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3556,7 +3556,7 @@
     "icao": "LFEC",
     "latitude": 48.4631996154785,
     "longitude": -5.06358003616333,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3604,7 +3604,7 @@
     "icao": "LFEJ",
     "latitude": 46.8418998718262,
     "longitude": 1.62110996246338,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -3652,7 +3652,7 @@
     "icao": "LFEP",
     "latitude": 47.2214012145996,
     "longitude": 4.56111001968384,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3660,7 +3660,7 @@
     "icao": "LFEQ",
     "latitude": 47.4822006225586,
     "longitude": -3.09999990463257,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3668,7 +3668,7 @@
     "icao": "LFER",
     "latitude": 47.6994018554688,
     "longitude": -2.03666996955872,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3676,7 +3676,7 @@
     "icao": "LFES",
     "latitude": 48.0525016784668,
     "longitude": -3.66472005844116,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3684,7 +3684,7 @@
     "icao": "LFET",
     "latitude": 47.5475006103516,
     "longitude": 5.21193981170654,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3692,7 +3692,7 @@
     "icao": "LFEU",
     "latitude": 48.8683013916016,
     "longitude": 5.18583011627197,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3700,7 +3700,7 @@
     "icao": "LFEV",
     "latitude": 47.4333000183105,
     "longitude": 5.62277984619141,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3716,7 +3716,7 @@
     "icao": "LFEX",
     "latitude": 48.5928001403809,
     "longitude": 6.24110984802246,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3724,7 +3724,7 @@
     "icao": "LFEY",
     "latitude": 46.7186012268066,
     "longitude": -2.39110994338989,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3732,7 +3732,7 @@
     "icao": "LFEZ",
     "latitude": 48.7243995666504,
     "longitude": 6.20777988433838,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3788,7 +3788,7 @@
     "icao": "LFFI",
     "latitude": 47.4081001281738,
     "longitude": -1.17750000953674,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -3860,7 +3860,7 @@
     "icao": "LFFT",
     "latitude": 48.3624992370605,
     "longitude": 5.72138977050781,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3892,7 +3892,7 @@
     "icao": "LFFX",
     "latitude": 46.562801361084,
     "longitude": 4.9766697883606,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3916,7 +3916,7 @@
     "icao": "LFGA",
     "latitude": 48.1099014282227,
     "longitude": 7.35901021957397,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3924,7 +3924,7 @@
     "icao": "LFGB",
     "latitude": 47.7412986755371,
     "longitude": 7.43220996856689,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3932,7 +3932,7 @@
     "icao": "LFGC",
     "latitude": 48.5544013977051,
     "longitude": 7.77805995941162,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3956,7 +3956,7 @@
     "icao": "LFGF",
     "latitude": 47.0059013366699,
     "longitude": 4.89342021942139,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3980,7 +3980,7 @@
     "icao": "LFGI",
     "latitude": 47.3869018554688,
     "longitude": 4.94806003570557,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -3988,7 +3988,7 @@
     "icao": "LFGJ",
     "latitude": 47.0390014648438,
     "longitude": 5.42724990844727,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4004,7 +4004,7 @@
     "icao": "LFGL",
     "latitude": 46.6761016845703,
     "longitude": 5.47110986709595,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4012,7 +4012,7 @@
     "icao": "LFGM",
     "latitude": 46.6041984558105,
     "longitude": 4.33388996124268,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4020,7 +4020,7 @@
     "icao": "LFGN",
     "latitude": 46.4678001403809,
     "longitude": 4.13500022888184,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4052,7 +4052,7 @@
     "icao": "LFGR",
     "latitude": 49.1528015136719,
     "longitude": 5.93277978897095,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4068,7 +4068,7 @@
     "icao": "LFGT",
     "latitude": 48.7188987731934,
     "longitude": 7.07944011688232,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4076,7 +4076,7 @@
     "icao": "LFGU",
     "latitude": 49.128101348877,
     "longitude": 7.10832977294922,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4092,7 +4092,7 @@
     "icao": "LFGW",
     "latitude": 49.1223983764648,
     "longitude": 5.46904993057251,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4100,7 +4100,7 @@
     "icao": "LFGX",
     "latitude": 46.7644004821777,
     "longitude": 5.82082986831665,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4108,7 +4108,7 @@
     "icao": "LFGY",
     "latitude": 48.2672004699707,
     "longitude": 7.00860977172852,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4124,7 +4124,7 @@
     "icao": "LFHA",
     "latitude": 45.5149993896,
     "longitude": 3.26749992371,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4132,7 +4132,7 @@
     "icao": "LFHC",
     "latitude": 45.869701385498,
     "longitude": 5.18722009658813,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4148,7 +4148,7 @@
     "icao": "LFHE",
     "latitude": 45.0661010742188,
     "longitude": 5.10333013534546,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4164,7 +4164,7 @@
     "icao": "LFHG",
     "latitude": 45.4930992126465,
     "longitude": 4.535560131073,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4172,7 +4172,7 @@
     "icao": "LFHH",
     "latitude": 45.464199066162,
     "longitude": 4.8294401168823,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4180,7 +4180,7 @@
     "icao": "LFHI",
     "latitude": 45.687801361084,
     "longitude": 5.45360994338989,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4188,7 +4188,7 @@
     "icao": "LFHJ",
     "latitude": 45.6542015075684,
     "longitude": 4.91360998153687,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4228,7 +4228,7 @@
     "icao": "LFHP",
     "latitude": 45.0806999206543,
     "longitude": 3.76289010047913,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4236,7 +4236,7 @@
     "icao": "LFHQ",
     "latitude": 45.0764007568359,
     "longitude": 2.99360990524292,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4244,7 +4244,7 @@
     "icao": "LFHR",
     "latitude": 45.3250007629,
     "longitude": 3.35916996002,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4260,7 +4260,7 @@
     "icao": "LFHT",
     "latitude": 45.5168991088867,
     "longitude": 3.74639010429382,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4276,7 +4276,7 @@
     "icao": "LFHV",
     "latitude": 45.919983,
     "longitude": 4.634931,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4292,7 +4292,7 @@
     "icao": "LFHX",
     "latitude": 46.2538986206,
     "longitude": 3.58860993385,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4300,7 +4300,7 @@
     "icao": "LFHY",
     "latitude": 46.5345993041992,
     "longitude": 3.42371988296509,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4452,7 +4452,7 @@
     "icao": "LFJB",
     "latitude": 46.9028015136719,
     "longitude": -0.697777986526489,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -4468,7 +4468,7 @@
     "icao": "LFJD",
     "latitude": 46.0396995544434,
     "longitude": 5.49694013595581,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4524,7 +4524,7 @@
     "icao": "LFJR",
     "latitude": 47.5602989196777,
     "longitude": -0.312222003936768,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -4540,7 +4540,7 @@
     "icao": "LFJT",
     "latitude": 47.1500015258789,
     "longitude": 0.712777972221375,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -4564,7 +4564,7 @@
     "icao": "LFKB",
     "latitude": 42.5527000427246,
     "longitude": 9.48373031616211,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4572,7 +4572,7 @@
     "icao": "LFKC",
     "latitude": 42.5307998657227,
     "longitude": 8.79319000244141,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4588,7 +4588,7 @@
     "icao": "LFKE",
     "latitude": 45.0278015136719,
     "longitude": 5.30999994277954,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4596,7 +4596,7 @@
     "icao": "LFKF",
     "latitude": 41.5005989074707,
     "longitude": 9.09778022766113,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4604,7 +4604,7 @@
     "icao": "LFKG",
     "latitude": 42.0550003051758,
     "longitude": 9.40194034576416,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4612,7 +4612,7 @@
     "icao": "LFKH",
     "latitude": 45.5167007446289,
     "longitude": 5.68056011199951,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4620,7 +4620,7 @@
     "icao": "LFKJ",
     "latitude": 41.9235992431641,
     "longitude": 8.8029203414917,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4628,7 +4628,7 @@
     "icao": "LFKL",
     "latitude": 45.7117004394531,
     "longitude": 4.6977801322937,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4636,7 +4636,7 @@
     "icao": "LFKM",
     "latitude": 45.6072006225586,
     "longitude": 4.30583000183105,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4644,7 +4644,7 @@
     "icao": "LFKO",
     "latitude": 41.6605987548828,
     "longitude": 8.88974952697754,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4652,7 +4652,7 @@
     "icao": "LFKP",
     "latitude": 45.560001373291,
     "longitude": 5.38471984863281,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4660,7 +4660,7 @@
     "icao": "LFKS",
     "latitude": 41.9244003295898,
     "longitude": 9.4060001373291,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4668,7 +4668,7 @@
     "icao": "LFKT",
     "latitude": 42.2935981750488,
     "longitude": 9.19305992126465,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4684,7 +4684,7 @@
     "icao": "LFKY",
     "latitude": 45.6949996948242,
     "longitude": 5.69278001785278,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4700,7 +4700,7 @@
     "icao": "LFLA",
     "latitude": 47.8502006530762,
     "longitude": 3.49710988998413,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -4708,7 +4708,7 @@
     "icao": "LFLB",
     "latitude": 45.6380996704102,
     "longitude": 5.88022994995117,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4716,7 +4716,7 @@
     "icao": "LFLC",
     "latitude": 45.7867012024,
     "longitude": 3.1691699028,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4724,7 +4724,7 @@
     "icao": "LFLD",
     "latitude": 47.0581016540527,
     "longitude": 2.37028002738953,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -4732,7 +4732,7 @@
     "icao": "LFLE",
     "latitude": 45.5611000061,
     "longitude": 5.97575998306,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4740,7 +4740,7 @@
     "icao": "LFLG",
     "latitude": 45.2192001342773,
     "longitude": 5.8497200012207,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4748,7 +4748,7 @@
     "icao": "LFLH",
     "latitude": 46.826099395752,
     "longitude": 4.81762981414795,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -4772,7 +4772,7 @@
     "icao": "LFLK",
     "latitude": 46.2792015075684,
     "longitude": 5.66750001907349,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4780,7 +4780,7 @@
     "icao": "LFLL",
     "latitude": 45.726398468,
     "longitude": 5.09082984924,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4788,7 +4788,7 @@
     "icao": "LFLM",
     "latitude": 46.2951011657715,
     "longitude": 4.79577016830444,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4796,7 +4796,7 @@
     "icao": "LFLN",
     "latitude": 46.4124984741211,
     "longitude": 4.01325988769531,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4804,7 +4804,7 @@
     "icao": "LFLO",
     "latitude": 46.0583000183105,
     "longitude": 4.00138998031616,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4812,7 +4812,7 @@
     "icao": "LFLP",
     "latitude": 45.92919921875,
     "longitude": 6.09876012802124,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4828,7 +4828,7 @@
     "icao": "LFLR",
     "latitude": 45.2560997009277,
     "longitude": 4.82582998275757,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4836,7 +4836,7 @@
     "icao": "LFLS",
     "latitude": 45.3628997802734,
     "longitude": 5.32937002182007,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4852,7 +4852,7 @@
     "icao": "LFLU",
     "latitude": 44.9216003417969,
     "longitude": 4.96990013122559,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4860,7 +4860,7 @@
     "icao": "LFLV",
     "latitude": 46.1697006225586,
     "longitude": 3.40373992919922,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4868,7 +4868,7 @@
     "icao": "LFLW",
     "latitude": 44.8913993835449,
     "longitude": 2.42194008827209,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -4876,7 +4876,7 @@
     "icao": "LFLX",
     "latitude": 46.8622016906738,
     "longitude": 1.73066997528076,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -4884,7 +4884,7 @@
     "icao": "LFLY",
     "latitude": 45.7271995544434,
     "longitude": 4.94427013397217,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4892,7 +4892,7 @@
     "icao": "LFLZ",
     "latitude": 45.7036018371582,
     "longitude": 4.20110988616943,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4900,7 +4900,7 @@
     "icao": "LFMA",
     "latitude": 43.5055999755859,
     "longitude": 5.36778020858765,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4908,7 +4908,7 @@
     "icao": "LFMC",
     "latitude": 43.3847007751465,
     "longitude": 6.38713979721069,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4916,7 +4916,7 @@
     "icao": "LFMD",
     "latitude": 43.5419998168945,
     "longitude": 6.9534797668457,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4932,7 +4932,7 @@
     "icao": "LFMF",
     "latitude": 43.6088981628418,
     "longitude": 6.70277976989746,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4948,7 +4948,7 @@
     "icao": "LFMH",
     "latitude": 45.540599822998,
     "longitude": 4.29639005661011,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4956,7 +4956,7 @@
     "icao": "LFMI",
     "latitude": 43.5227012634277,
     "longitude": 4.92384004592896,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4964,7 +4964,7 @@
     "icao": "LFMK",
     "latitude": 43.2159996032715,
     "longitude": 2.30631995201111,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -4972,7 +4972,7 @@
     "icao": "LFML",
     "latitude": 43.439271922,
     "longitude": 5.22142410278,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4980,7 +4980,7 @@
     "icao": "LFMN",
     "latitude": 43.6584014893,
     "longitude": 7.21586990356,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4988,7 +4988,7 @@
     "icao": "LFMO",
     "latitude": 44.1404991149902,
     "longitude": 4.86672019958496,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -4996,7 +4996,7 @@
     "icao": "LFMP",
     "latitude": 42.7403984069824,
     "longitude": 2.87067008018494,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5004,7 +5004,7 @@
     "icao": "LFMQ",
     "latitude": 43.252498626709,
     "longitude": 5.78519010543823,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5028,7 +5028,7 @@
     "icao": "LFMT",
     "latitude": 43.5761985778809,
     "longitude": 3.96301007270813,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5036,7 +5036,7 @@
     "icao": "LFMU",
     "latitude": 43.3235015869141,
     "longitude": 3.35389995574951,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5044,7 +5044,7 @@
     "icao": "LFMV",
     "latitude": 43.907299041748,
     "longitude": 4.90183019638062,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5068,7 +5068,7 @@
     "icao": "LFMY",
     "latitude": 43.6063995361328,
     "longitude": 5.10925006866455,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5076,7 +5076,7 @@
     "icao": "LFMZ",
     "latitude": 43.1758003234863,
     "longitude": 2.73416996002197,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5084,7 +5084,7 @@
     "icao": "LFNA",
     "latitude": 44.4550018310547,
     "longitude": 6.03777980804443,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5092,7 +5092,7 @@
     "icao": "LFNB",
     "latitude": 44.5021018981934,
     "longitude": 3.53281998634338,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5116,7 +5116,7 @@
     "icao": "LFNE",
     "latitude": 43.6582984924316,
     "longitude": 5.01360988616943,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5124,7 +5124,7 @@
     "icao": "LFNF",
     "latitude": 43.7378005981445,
     "longitude": 5.78417015075684,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5132,7 +5132,7 @@
     "icao": "LFNG",
     "latitude": 43.6102981567383,
     "longitude": 4.07028007507324,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5140,7 +5140,7 @@
     "icao": "LFNH",
     "latitude": 44.0298004150391,
     "longitude": 5.07806015014648,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5188,7 +5188,7 @@
     "icao": "LFNR",
     "latitude": 43.5377998352051,
     "longitude": 5.1783299446106,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5204,7 +5204,7 @@
     "icao": "LFNT",
     "latitude": 43.996898651123,
     "longitude": 4.75555992126465,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5252,7 +5252,7 @@
     "icao": "LFNZ",
     "latitude": 43.7689018249512,
     "longitude": 4.89361000061035,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -5260,7 +5260,7 @@
     "icao": "LFOA",
     "latitude": 47.053299,
     "longitude": 2.6325,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5268,7 +5268,7 @@
     "icao": "LFOB",
     "latitude": 49.4543991088867,
     "longitude": 2.11278009414673,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5276,7 +5276,7 @@
     "icao": "LFOC",
     "latitude": 48.0581016540527,
     "longitude": 1.376620054245,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5284,7 +5284,7 @@
     "icao": "LFOD",
     "latitude": 47.2568016052246,
     "longitude": -0.115142002701759,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5316,7 +5316,7 @@
     "icao": "LFOH",
     "latitude": 49.5339012145996,
     "longitude": 0.0880559980869293,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5332,7 +5332,7 @@
     "icao": "LFOJ",
     "latitude": 47.9878005981,
     "longitude": 1.76056003571,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5340,7 +5340,7 @@
     "icao": "LFOK",
     "latitude": 48.7761001586914,
     "longitude": 4.18449020385742,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5372,7 +5372,7 @@
     "icao": "LFOO",
     "latitude": 46.4768981933594,
     "longitude": -1.72277998924255,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5380,7 +5380,7 @@
     "icao": "LFOP",
     "latitude": 49.3842010498047,
     "longitude": 1.17480003833771,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5388,7 +5388,7 @@
     "icao": "LFOQ",
     "latitude": 47.6785011291504,
     "longitude": 1.20884001255035,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5412,7 +5412,7 @@
     "icao": "LFOT",
     "latitude": 47.4322013855,
     "longitude": 0.727605998516,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5420,7 +5420,7 @@
     "icao": "LFOU",
     "latitude": 47.0820999145508,
     "longitude": -0.877063989639282,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5428,7 +5428,7 @@
     "icao": "LFOV",
     "latitude": 48.0313987731934,
     "longitude": -0.742986023426056,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5444,7 +5444,7 @@
     "icao": "LFOX",
     "latitude": 48.381901,
     "longitude": 2.07528,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5460,7 +5460,7 @@
     "icao": "LFOZ",
     "latitude": 47.8969,
     "longitude": 2.16333,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5500,7 +5500,7 @@
     "icao": "LFPE",
     "latitude": 48.9277992248535,
     "longitude": 2.83527994155884,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5548,7 +5548,7 @@
     "icao": "LFPL",
     "latitude": 48.821028,
     "longitude": 2.625967,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5556,7 +5556,7 @@
     "icao": "LFPM",
     "latitude": 48.6046981811523,
     "longitude": 2.67111992835999,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5564,7 +5564,7 @@
     "icao": "LFPN",
     "latitude": 48.7518997192383,
     "longitude": 2.10618996620178,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5572,7 +5572,7 @@
     "icao": "LFPO",
     "latitude": 48.7252998352,
     "longitude": 2.35944008827,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5604,7 +5604,7 @@
     "icao": "LFPT",
     "latitude": 49.0966667,
     "longitude": 2.0408333,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5620,7 +5620,7 @@
     "icao": "LFPV",
     "latitude": 48.7743988037,
     "longitude": 2.20153999329,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5628,7 +5628,7 @@
     "icao": "LFPX",
     "latitude": 48.8436012268066,
     "longitude": 1.98222005367279,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5644,7 +5644,7 @@
     "icao": "LFPZ",
     "latitude": 48.8114013671875,
     "longitude": 2.07471990585327,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5652,7 +5652,7 @@
     "icao": "LFQA",
     "latitude": 49.2086982727051,
     "longitude": 4.15657997131348,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5660,7 +5660,7 @@
     "icao": "LFQB",
     "latitude": 48.3221015930176,
     "longitude": 4.01669979095459,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {
@@ -5668,7 +5668,7 @@
     "icao": "LFQC",
     "latitude": 48.5932998657227,
     "longitude": 6.54345989227295,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5684,7 +5684,7 @@
     "icao": "LFQE",
     "latitude": 49.2268981933594,
     "longitude": 5.67222023010254,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5700,7 +5700,7 @@
     "icao": "LFQG",
     "latitude": 47.0026016235352,
     "longitude": 3.11332988739014,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -5748,7 +5748,7 @@
     "icao": "LFQM",
     "latitude": 47.2066001892,
     "longitude": 6.08368015289,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5772,7 +5772,7 @@
     "icao": "LFQP",
     "latitude": 48.766300201416,
     "longitude": 7.20052003860474,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5780,7 +5780,7 @@
     "icao": "LFQQ",
     "latitude": 50.565772,
     "longitude": 3.104031,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5804,7 +5804,7 @@
     "icao": "LFQT",
     "latitude": 50.6184005737305,
     "longitude": 2.64224004745483,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5812,7 +5812,7 @@
     "icao": "LFQU",
     "latitude": 48.9514007568359,
     "longitude": 7.07777976989746,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5828,7 +5828,7 @@
     "icao": "LFQW",
     "latitude": 47.6375999450684,
     "longitude": 6.20391988754272,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5852,7 +5852,7 @@
     "icao": "LFQZ",
     "latitude": 48.7752990722656,
     "longitude": 6.71528005599976,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -5868,7 +5868,7 @@
     "icao": "LFRB",
     "latitude": 48.4478988647461,
     "longitude": -4.41854000091553,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5876,7 +5876,7 @@
     "icao": "LFRC",
     "latitude": 49.6501007080078,
     "longitude": -1.47028005123138,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5884,7 +5884,7 @@
     "icao": "LFRD",
     "latitude": 48.5876998901367,
     "longitude": -2.07996010780334,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5892,7 +5892,7 @@
     "icao": "LFRE",
     "latitude": 47.2893981933594,
     "longitude": -2.34639000892639,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5908,7 +5908,7 @@
     "icao": "LFRG",
     "latitude": 49.3652992249,
     "longitude": 0.154305994511,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5916,7 +5916,7 @@
     "icao": "LFRH",
     "latitude": 47.7606010437012,
     "longitude": -3.44000005722046,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5924,7 +5924,7 @@
     "icao": "LFRI",
     "latitude": 46.7019004821777,
     "longitude": -1.37863004207611,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5932,7 +5932,7 @@
     "icao": "LFRJ",
     "latitude": 48.5303001403809,
     "longitude": -4.15163993835449,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5940,7 +5940,7 @@
     "icao": "LFRK",
     "latitude": 49.1733016967773,
     "longitude": -0.449999988079071,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5948,7 +5948,7 @@
     "icao": "LFRL",
     "latitude": 48.2817001342773,
     "longitude": -4.44502019882202,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5956,7 +5956,7 @@
     "icao": "LFRM",
     "latitude": 47.948600769043,
     "longitude": 0.201666995882988,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5964,7 +5964,7 @@
     "icao": "LFRN",
     "latitude": 48.0694999695,
     "longitude": -1.73478996754,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5972,7 +5972,7 @@
     "icao": "LFRO",
     "latitude": 48.7543983459473,
     "longitude": -3.47165989875793,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5980,7 +5980,7 @@
     "icao": "LFRP",
     "latitude": 48.002799987793,
     "longitude": -2.37721991539001,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5988,7 +5988,7 @@
     "icao": "LFRQ",
     "latitude": 47.9749984741211,
     "longitude": -4.16778993606567,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -5996,7 +5996,7 @@
     "icao": "LFRS",
     "latitude": 47.1531982422,
     "longitude": -1.61073005199,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6004,7 +6004,7 @@
     "icao": "LFRT",
     "latitude": 48.5377998352051,
     "longitude": -2.85443997383118,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6012,7 +6012,7 @@
     "icao": "LFRU",
     "latitude": 48.6031990051,
     "longitude": -3.81577992439,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6020,7 +6020,7 @@
     "icao": "LFRV",
     "latitude": 47.7233009338379,
     "longitude": -2.71855998039246,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6036,7 +6036,7 @@
     "icao": "LFRZ",
     "latitude": 47.312198638916,
     "longitude": -2.14917993545532,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6044,7 +6044,7 @@
     "icao": "LFSA",
     "latitude": 47.2747001648,
     "longitude": 6.08416986465,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6052,7 +6052,7 @@
     "icao": "LFSB",
     "latitude": 47.59,
     "longitude": 7.5291667,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6060,7 +6060,7 @@
     "icao": "LFSC",
     "latitude": 47.922000885,
     "longitude": 7.39967012405,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6068,7 +6068,7 @@
     "icao": "LFSD",
     "latitude": 47.268901825,
     "longitude": 5.09000015259,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6076,7 +6076,7 @@
     "icao": "LFSE",
     "latitude": 48.2118988037109,
     "longitude": 6.44917011260986,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6084,7 +6084,7 @@
     "icao": "LFSF",
     "latitude": 49.0717010498047,
     "longitude": 6.13166999816895,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6092,7 +6092,7 @@
     "icao": "LFSG",
     "latitude": 48.3250007629395,
     "longitude": 6.06998014450073,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6100,7 +6100,7 @@
     "icao": "LFSH",
     "latitude": 48.7943000793,
     "longitude": 7.81760978699,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6108,7 +6108,7 @@
     "icao": "LFSI",
     "latitude": 48.6360015869141,
     "longitude": 4.8994197845459,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6116,7 +6116,7 @@
     "icao": "LFSJ",
     "latitude": 49.6596984863281,
     "longitude": 5.03777980804443,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6124,7 +6124,7 @@
     "icao": "LFSK",
     "latitude": 48.7033004760742,
     "longitude": 4.68444013595581,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6132,7 +6132,7 @@
     "icao": "LFSL",
     "latitude": 48.780001,
     "longitude": 5.980003,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -6140,7 +6140,7 @@
     "icao": "LFSM",
     "latitude": 47.4869995117188,
     "longitude": 6.79054021835327,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6148,7 +6148,7 @@
     "icao": "LFSN",
     "latitude": 48.6921005249023,
     "longitude": 6.23046016693115,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6156,7 +6156,7 @@
     "icao": "LFSO",
     "latitude": 48.5830993652344,
     "longitude": 5.95499992370605,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6164,7 +6164,7 @@
     "icao": "LFSP",
     "latitude": 46.9039993286133,
     "longitude": 6.32737016677856,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6196,7 +6196,7 @@
     "icao": "LFST",
     "latitude": 48.5382995605469,
     "longitude": 7.62823009490967,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6204,7 +6204,7 @@
     "icao": "LFSU",
     "latitude": 47.9655990600586,
     "longitude": 5.29500007629395,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6212,7 +6212,7 @@
     "icao": "LFSV",
     "latitude": 48.6013984680176,
     "longitude": 6.05777978897095,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6228,7 +6228,7 @@
     "icao": "LFSX",
     "latitude": 47.787164,
     "longitude": 6.350151,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6236,7 +6236,7 @@
     "icao": "LFSY",
     "latitude": 47.609722,
     "longitude": 4.6175,
-    "fir_icao": null,
+    "fir_icao": "LFEE",
     "fictive": null
   },
   {
@@ -6252,7 +6252,7 @@
     "icao": "LFTF",
     "latitude": 43.2477989196777,
     "longitude": 6.12669992446899,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -6260,7 +6260,7 @@
     "icao": "LFTH",
     "latitude": 43.0973014832,
     "longitude": 6.14602994919,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -6292,7 +6292,7 @@
     "icao": "LFTQ",
     "latitude": 47.7406005859375,
     "longitude": -1.18806004524231,
-    "fir_icao": null,
+    "fir_icao": "LFRR",
     "fictive": null
   },
   {
@@ -6316,7 +6316,7 @@
     "icao": "LFTW",
     "latitude": 43.7574005126953,
     "longitude": 4.4163498878479,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -6324,7 +6324,7 @@
     "icao": "LFTZ",
     "latitude": 43.2053985595703,
     "longitude": 6.48199987411499,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -6332,7 +6332,7 @@
     "icao": "LFXA",
     "latitude": 45.9873008728,
     "longitude": 5.32844018936,
-    "fir_icao": null,
+    "fir_icao": "LFMM",
     "fictive": null
   },
   {
@@ -6340,7 +6340,7 @@
     "icao": "LFXB",
     "latitude": 45.7019004821777,
     "longitude": -0.63611102104187,
-    "fir_icao": null,
+    "fir_icao": "LFBB",
     "fictive": null
   },
   {
@@ -6460,7 +6460,7 @@
     "icao": "LFYR",
     "latitude": 47.32080078125,
     "longitude": 1.68888998031616,
-    "fir_icao": null,
+    "fir_icao": "LFFF",
     "fictive": null
   },
   {

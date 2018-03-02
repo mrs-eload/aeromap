@@ -8,7 +8,6 @@ class AirspaceCollection {
         this.is_metropolitan = is_metropolitan;
         this.drawingManager = drawingManager;
         this.secondary_mode = secondary_mode;
-        this.initEvents();
     }
     add(airspace){
         this.airspaces.set(airspace.callsign, airspace);
@@ -37,20 +36,11 @@ class AirspaceCollection {
     }
 
     drawAirspace(airspace){
-        airspace.polygon = this.drawingManager.drawPolygon({
-            paths: airspace.coordinates,
-            strokeColor: airspace.color,
-            strokeOpacity: 0.8,
-            strokeWeight: 3,
-            fillColor: airspace.color,
-            fillOpacity: 0.35
-        }, !airspace.is_secondary);
+        airspace.drawAirspace();
     }
 
     hide () {
-        for(let airspace of this.airspaces.values()){
-            airspace.hide();
-        }
+        this.airspaces.forEach(value => value.hide());
     }
 
     show () {
@@ -78,21 +68,6 @@ class AirspaceCollection {
                 airspace.hide();
         }
     }
-    initEvents () {
-        google.maps.event.addListener(this.drawingManager.gmap, "zoom_changed", () => {
-            if (this.drawingManager.gmap.getZoom() > 8){
-                this.hide();
-            }else{
-                this.show();
-            }
-        });
-    }
-
-
-
-
-
-
 
 
     set drawingManager(value){

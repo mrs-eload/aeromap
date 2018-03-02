@@ -36,6 +36,7 @@ import colorssheet from './map/style';
 
 import DrawingTools from './map/drawing_tools';
 import AirspaceCollection from './airspace/airspacecollection';
+import AirportCollection from './airport/airportcollection';
 
 class AeroMap{
     constructor($elem=null, opts={}){
@@ -62,6 +63,7 @@ class AeroMap{
         this.drawing_manager = new DrawingTools();
         this.drawing_manager.init(this.gmap, this.editor_mode);
         this.airspace_collections = new Map();
+        this.airport_collections = new Map();
     }
 
     setBoundaries(){
@@ -128,6 +130,26 @@ class AeroMap{
             this.airspace_collections.set(fir, airspacecollection);
         }
     }
+    initAirports(){
+        for (let fir in FIRS) {
+            let airport_collection = new AirportCollection(new Map(), fir);
+            this.data.airports.forEach( (airport) => {
+                if(airport.fir_icao !== null && airport.fir_icao.search(fir) > -1) {
+                    airport_collection.createAirport({
+                        name: airport.name,
+                        icao: airport.icao,
+                        fir: airport.fir_icao,
+                        lat: airport.latitude,
+                        lng: airport.longitude,
+                        drawingManager: this.drawing_manager,
+                        parent: airport_collection,
+                        icon_url: 'http://pichoster.net/images/2018/02/28/a85819dc0002f3fe5100d0c4d39ef268.png'
+                    });
+                }
+            });
+            this.airport_collections.set(fir, airport_collection);
+        }
+    }
     setSecondary (callsign) {
         return SECONDARY.indexOf(callsign) > -1
     }
@@ -142,6 +164,33 @@ class AeroMap{
         }
         console.log(this.airspace_collections);
     }
+    drawAirports(){
+        if(this.airport_collections.size === 0){
+            console.warn("No airspaces loaded, data loading tentative...");
+            this.initAirports();
+            if(this.airport_collections.size === 0) throw new Error ("No airspaces data, set some airspaces first!");
+        }
+        for(let collection of this.airport_collections.values()){
+            collection.drawAirports();
+        }
+        //http://pichoster.net/images/2018/02/28/a85819dc0002f3fe5100d0c4d39ef268.png
+
+    }
+
+    initEvents () {
+        google.maps.event.addListener(this.drawing_manager.gmap, "zoom_changed", () => {
+            if (this.drawing_manager.gmap.getZoom() > 8){
+                //Hide airspace / show airports
+                this.airspace_collections.forEach(value => value.hide());
+                this.airport_collections.forEach(value => value.show());
+            }else{
+                this.airspace_collections.forEach(value => value.show());
+                this.airport_collections.forEach(value => value.hide());
+            }
+        });
+    }
+
+
     setData (data){
         this.data = data;
     }

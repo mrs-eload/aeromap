@@ -12,18 +12,60 @@ class Airspace{
         this.polygon = null;
         this.drawingManager = drawingManager;
         this.parent = parent;
+
+        this.infoWindow = new google.maps.InfoWindow();
+
+        this.bounds = null;
+
     }
 
     hide () {
-        this.polygon.setMap(null);
+        this.polygon.setVisible(false);
         this.visible = false;
-        console.log(this, 'hide');
     }
 
     show () {
-        this.polygon.setMap(this.drawingManager.gmap);
+        this.polygon.setVisible(true);
         this.visible = true;
-        console.log(this,'show');
+    }
+
+    drawAirspace () {
+        this.polygon = this.drawingManager.drawPolygon({
+            paths: this.coordinates,
+            strokeColor: this.color,
+            strokeOpacity: 0.8,
+            strokeWeight: 3,
+            fillColor: this.color,
+            fillOpacity: 0.35
+        }, !this.is_secondary);
+
+        this.initEvents();
+    }
+
+    initEvents () {
+        let that = this;
+        this.polygon.addListener('click', (e) => {
+            //TODO
+            // this.bounds = new google.maps.LatLngBounds();
+            // e.getGeometry().forEachLatLng(function(latlng){
+            //     that.bounds.extend(latlng);
+            // });
+            // this.displayPopin();
+        });
+    }
+
+    displayPopin () {
+        let ne = this.bounds.getNorthEast();
+        let contentString = `<b>${this.callsign} - ${this.name}</b>`;
+        // Set the info window's content and position.
+        this.infoWindow.setContent(contentString);
+        this.infoWindow.setPosition(ne);
+
+        this.infoWindow.open(this.drawingManager.gmap);
+    }
+
+    hidePopin () {
+        this.infoWindow.open(null);
     }
 
     get drawingManager (){
@@ -61,7 +103,10 @@ class Airspace{
         return this._polygon;
     }
 
-
+    set bounds (value) { this._bounds = value;}
+    get bounds () { return this._bounds;}
+    set infoWindow (value) { this._infoWindow = value;}
+    get infoWindow () { return this._infoWindow;}
     set polygon(value){
         this._polygon = value;
     }
