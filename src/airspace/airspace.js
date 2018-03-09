@@ -1,3 +1,5 @@
+import Position from "../position/position";
+
 class Airspace{
     constructor(params){
         const {name, callsign, fir, color, is_secondary, positions, visible, coordinates, drawingManager, parent} = params;
@@ -12,7 +14,7 @@ class Airspace{
         this.polygon = null;
         this.drawingManager = drawingManager;
         this.parent = parent;
-
+        this.positions = new Map();
         this.infoWindow = new google.maps.InfoWindow();
 
         this.bounds = null;
@@ -29,14 +31,22 @@ class Airspace{
         this.visible = true;
     }
 
+    addPositions(position){
+        this.positions.set(position.id, position);
+    }
+
+    createPosition (opts){
+        this.addPositions(new Position(...opts));
+    }
+
     drawAirspace () {
         this.polygon = this.drawingManager.drawPolygon({
             paths: this.coordinates,
             strokeColor: this.color,
             strokeOpacity: 0.8,
-            strokeWeight: 3,
+            strokeWeight: 2,
             fillColor: this.color,
-            fillOpacity: 0.35
+            fillOpacity: 0.2
         }, !this.is_secondary);
 
         this.initEvents();
@@ -45,6 +55,8 @@ class Airspace{
     initEvents () {
         let that = this;
         this.polygon.addListener('click', (e) => {
+            let content = '<b>' + this.callsign +' - ' + this.name + '</b><br/>';
+            this.drawingManager.displayPopin(content, null, e.latLng);
             //TODO
             // this.bounds = new google.maps.LatLngBounds();
             // e.getGeometry().forEachLatLng(function(latlng){
@@ -89,9 +101,6 @@ class Airspace{
     get is_secondary(){
         return this._is_secondary;
     }
-    get positions(){
-        return this._positions;
-    }
     get visible(){
         return this._visible;
     }
@@ -103,10 +112,13 @@ class Airspace{
         return this._polygon;
     }
 
+    set positions (value){this._positions = value;}
+    get positions (){return this._positions;}
     set bounds (value) { this._bounds = value;}
     get bounds () { return this._bounds;}
     set infoWindow (value) { this._infoWindow = value;}
     get infoWindow () { return this._infoWindow;}
+
     set polygon(value){
         this._polygon = value;
     }
@@ -124,9 +136,6 @@ class Airspace{
     }
     set is_secondary(value){
         this._is_secondary = value;
-    }
-    set positions(value){
-        this._positions = value;
     }
     set visible(value){
         this._visible = value;

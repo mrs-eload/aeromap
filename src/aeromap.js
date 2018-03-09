@@ -1,3 +1,5 @@
+import * as firs from "../data/firs";
+
 const FR_COORD = {
     center: {lat: 46.403, lng: 2.784},
     boundaries: {
@@ -37,6 +39,7 @@ import colorssheet from './map/style';
 import DrawingTools from './map/drawing_tools';
 import AirspaceCollection from './airspace/airspacecollection';
 import AirportCollection from './airport/airportcollection';
+import * as airports from "../data/airports";
 
 class AeroMap{
     constructor($elem=null, opts={}){
@@ -64,6 +67,7 @@ class AeroMap{
         this.drawing_manager.init(this.gmap, this.editor_mode);
         this.airspace_collections = new Map();
         this.airport_collections = new Map();
+        this.position_collections = new Map();
     }
 
     setBoundaries(){
@@ -150,6 +154,30 @@ class AeroMap{
             this.airport_collections.set(fir, airport_collection);
         }
     }
+    initPositions(){
+        this.airport_collections.forEach(collection => {
+            collection.airports.forEach(airport => {
+                this.data.positions.forEach( p => {
+                    let terrain = p.callsign.split('_');
+                    terrain = terrain [0];
+                    if(terrain === airport.icao){
+                        airport.createPosition({
+                            id: p.id,
+                            name: p.name,
+                            callsign: p.callsign,
+                            position_type: p.position_type,
+                            frequency: p.frequency,
+                            primary: p.primary,
+                            afis: p.afis,
+                            exam_possible: p.exam_possible
+                        });
+                    }
+                });
+            });
+        });
+
+
+    }
     setSecondary (callsign) {
         return SECONDARY.indexOf(callsign) > -1
     }
@@ -183,9 +211,11 @@ class AeroMap{
                 //Hide airspace / show airports
                 this.airspace_collections.forEach(value => value.hide());
                 this.airport_collections.forEach(value => value.show());
+                if(this.drawing_manager.infoWindow.type === "polygon") this.drawing_manager.hidePopin();
             }else{
                 this.airspace_collections.forEach(value => value.show());
                 this.airport_collections.forEach(value => value.hide());
+                if(this.drawing_manager.infoWindow.type === "marker") this.drawing_manager.hidePopin();
             }
         });
     }

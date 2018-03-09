@@ -16,9 +16,10 @@ window.parseData = () => {
                     let position = positions[p];
                     let terrain = position.callsign.split('_');
                     terrain = terrain [0];
-                    if(terrain === airports[index].fir){
+                    if(terrain === airports[index].icao){
                         data.positions.push(position);
                     }else if(position.position_type === 'ctr'){
+                        data.positions.push(position);
                         for(let fir in firs){
                             if(position.callsign === fir){
                                 position.coordinates = firs[fir];
@@ -37,6 +38,8 @@ window.initMap = ($elem) => {
     aeromap = new AeroMap($elem);
     aeromap.setData(parseData());
     aeromap.drawAirspaces();
+    aeromap.initAirports();
+    aeromap.initPositions();
     aeromap.drawAirports();
 
     aeromap.initEvents();

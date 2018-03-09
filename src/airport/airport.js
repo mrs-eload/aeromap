@@ -1,3 +1,5 @@
+import Position from "../position/position";
+
 module.exports = Airport;
 
 class Airport{
@@ -14,8 +16,7 @@ class Airport{
         this.icon_url = icon_url;
         this.marker = null;
         this.visible = false;
-
-        this.infoWindow = new google.maps.InfoWindow();
+        this.positions = new Map();
     }
 
     show () {
@@ -28,18 +29,60 @@ class Airport{
         this.visible = false;
     }
 
+    addPositions(position){
+        this.positions.set(position.id, position);
+    }
+
+    createPosition (opts){
+        this.addPositions(new Position(...opts));
+    }
+
+    initEvents(){
+        this.marker.addListener('click', () => {
+            let content = '<b>' + this.icao +' - ' + this.name + '</b><br/>';
+            for(let position of this.positions.values()){
+                if(position.primary === true){
+                    content += '<button>' + position.callsign +' </button>';
+                }
+            }
+            this.drawingManager.displayPopin(content, this.marker);
+        });
+    }
+
     drawAirport(){
+
+        let image = {
+            url: this.icon_url,
+            size: new google.maps.Size(36, 48),
+            origin: new google.maps.Point(0, 0),
+            anchor: new google.maps.Point(0, 48)
+        };
+
+        if(this.positions.size === 0){
+            this.icon_url = 'http://pichoster.net/images/2018/03/09/d3acf9f59b35745dbdde89c0cc73f73d.png';
+            image = {
+                url: this.icon_url,
+                size: new google.maps.Size(26, 35),
+                origin: new google.maps.Point(0, 0),
+                anchor: new google.maps.Point(0, 35)
+            };
+        }
+
         this.marker = new google.maps.Marker({
             map: this.drawingManager.gmap,
             draggable: false,
             position: {lat: this.lat, lng: this.lng},
-            icon: this.icon_url
+            icon: image
         });
         this.marker.setVisible(false);
+        this.initEvents();
     }
 
     set name (value){this._name = value;}
     get name (){return this._name;}
+
+    set positions (value){this._positions = value;}
+    get positions (){return this._positions;}
 
     set icao (value){this._icao = value;}
     get icao (){return this._icao;}
@@ -52,6 +95,9 @@ class Airport{
 
     set fir (value){this._fir = value;}
     get fir (){return this._fir;}
+
+    set icon_url (value){this._icon_url = value;}
+    get icon_url (){return this._icon_url;}
 
     set is_fictive (value){this._is_fictive = value;}
     get is_fictive (){return this._is_fictive;}

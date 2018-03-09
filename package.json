@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "webpack-dev-server --content-base dist/",
-    "build" : "webpack"
+    "dev": "webpack-dev-server --content-base dist/",
+    "build": "webpack"
   },
   "devDependencies": {
     "babel": "^6.23.0",
@@ -50,7 +50,7 @@
     "style-loader": "^0.20.2",
     "node-sass": "^4.7.2",
     "resolve-url-loader": "^2.2.1",
-    "replace":"^0.3.0",
+    "replace": "^0.3.0",
     "sass-loader": "^6.0.6",
     "extract-text-webpack-plugin": "^3.0.2"
   },
@@ -73,5 +73,7 @@
   },
   "homepage": "https://github.com/mrs-eload/aeromap#readme",
   "dependencies": {
+    "@material/fab": "^0.31.0",
+    "material-design-icons": "^3.0.1"
   }
 }
