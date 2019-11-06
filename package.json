@@ -35,7 +35,7 @@
     "parallel-webpack": "^2.2.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1",
-    "webpack-bundle-analyzer": "^2.10.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-merge": "^4.1.2",
     "clean-webpack-plugin": "^0.1.18",
     "string-replace-webpack-plugin": "^0.1.3",
