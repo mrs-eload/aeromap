@@ -34,7 +34,7 @@
     "babel-register": "^6.26.0",
     "parallel-webpack": "^2.2.0",
     "webpack": "^3.11.0",
-    "webpack-dev-server": "^2.11.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-merge": "^4.1.2",
     "clean-webpack-plugin": "^0.1.18",
